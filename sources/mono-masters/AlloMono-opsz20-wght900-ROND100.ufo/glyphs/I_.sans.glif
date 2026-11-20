@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.sans" format="2">
+  <advance width="1060"/>
+  <anchor x="528.5" y="0" name="bottom"/>
+  <anchor x="528.5" y="788" name="cross"/>
+  <anchor x="731.5" y="0" name="ogonek"/>
+  <anchor x="757.5" y="0" name="right"/>
+  <anchor x="327.5" y="1490" name="tonos"/>
+  <anchor x="531.5" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="732.5" y="1399.3376618407358"/>
+      <point x="641.8376618407357" y="1490.0"/>
+      <point x="530.0" y="1490.0" type="curve"/>
+      <point x="530.0" y="1490.0" type="line"/>
+      <point x="418.1623381592643" y="1490.0"/>
+      <point x="327.5" y="1399.3376618407358"/>
+      <point x="327.5" y="1287.5" type="curve"/>
+      <point x="327.5" y="202.5" type="line"/>
+      <point x="327.5" y="90.6623381592643"/>
+      <point x="418.1623381592643" y="0.0"/>
+      <point x="530.0" y="0.0" type="curve"/>
+      <point x="530.0" y="0.0" type="line"/>
+      <point x="641.8376618407357" y="0.0"/>
+      <point x="732.5" y="90.6623381592643"/>
+      <point x="732.5" y="202.5" type="curve"/>
+      <point x="732.5" y="1287.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

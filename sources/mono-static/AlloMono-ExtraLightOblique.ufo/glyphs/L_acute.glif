@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="1060"/>
+  <unicode hex="0139"/>
+  <anchor x="528.4630978585842" y="0" name="bottom"/>
+  <anchor x="406.45950590036375" y="745" name="cross"/>
+  <anchor x="631.4688102665299" y="764" name="dot"/>
+  <anchor x="764.4559139421433" y="1490" name="raccent"/>
+  <anchor x="471.9866832446147" y="1929" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="acutecomb" xOffset="64.4190118007275" yOffset="372"/>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.sans" format="2">
+  <advance width="1060"/>
+  <anchor x="441.4630945212508" y="0" name="bottom"/>
+  <anchor x="564.8445735340646" y="779" name="cross"/>
+  <anchor x="592.4630945212508" y="0" name="ogonek"/>
+  <anchor x="614.4630945212508" y="0" name="right"/>
+  <anchor x="526.4559106048099" y="1490" name="tonos"/>
+  <anchor x="679.4559106048099" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="808.6699368187427" y="1365.0761666327355" type="line" smooth="yes"/>
+      <point x="822.5629401539911" y="1452.793132917576"/>
+      <point x="790.7852738710786" y="1490.0"/>
+      <point x="701.9749044546131" y="1490.0" type="curve" smooth="yes"/>
+      <point x="618.7179650318267" y="1490.0" type="line" smooth="yes"/>
+      <point x="547.647626028844" y="1490.0"/>
+      <point x="523.1407823893475" y="1469.0691780387262"/>
+      <point x="512.0229324144633" y="1398.8738327661595" type="curve" smooth="yes"/>
+      <point x="310.24908357021695" y="124.92383176840934" type="line" smooth="yes"/>
+      <point x="296.3560816863264" y="37.206866139695165"/>
+      <point x="328.1337476462055" y="0.0"/>
+      <point x="416.9441161875803" y="0.0" type="curve" smooth="yes"/>
+      <point x="500.2010360409698" y="0.0" type="line" smooth="yes"/>
+      <point x="571.2713742240185" y="0.0"/>
+      <point x="595.778217506584" y="20.93082133886209"/>
+      <point x="606.8960684050994" y="91.12616563498538" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

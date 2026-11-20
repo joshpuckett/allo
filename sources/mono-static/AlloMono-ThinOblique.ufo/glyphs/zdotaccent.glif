@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent" format="2">
+  <advance width="1060"/>
+  <unicode hex="017C"/>
+  <anchor x="402.4630978585842" y="0" name="bottom"/>
+  <anchor x="808.4630978585842" y="0" name="bottomr"/>
+  <anchor x="506.84161555967546" y="558" name="cross"/>
+  <anchor x="650.813071814679" y="1467" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotaccentcomb" xOffset="338.5"/>
+  </outline>
+</glyph>

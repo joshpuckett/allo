@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.rarrow" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="872.0415104519259" y="719.0" type="line"/>
+      <point x="25.341510451925803" y="719.0" type="line"/>
+      <point x="-0.9503066419472177" y="553.0" type="line"/>
+      <point x="845.7496933580528" y="553.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="618.7978448250677" y="1006.0" type="line"/>
+      <point x="984.5330088615268" y="694.1" type="line"/>
+      <point x="966.1287368958157" y="577.9" type="line"/>
+      <point x="501.5933589849109" y="266.0" type="line"/>
+      <point x="450.71484219093855" y="341.5103254822668" type="line"/>
+      <point x="809.0956019049893" y="636.0" type="line"/>
+      <point x="544.0000067506305" y="930.4896745177332" type="line"/>
+    </contour>
+  </outline>
+</glyph>

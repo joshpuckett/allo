@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.drarrow" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="703.1118626094936" y="465.0" type="line"/>
+      <point x="-14.88813739050641" y="465.0" type="line"/>
+      <point x="-50.366252023202534" y="241.0" type="line"/>
+      <point x="667.6337479767975" y="241.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="778.6612406442974" y="942.0" type="line"/>
+      <point x="60.66124064429739" y="942.0" type="line"/>
+      <point x="25.183126011601267" y="718.0" type="line"/>
+      <point x="743.1831260116013" y="718.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="595.7093482387393" y="986.5" type="line"/>
+      <point x="989.7558129314727" y="669.9" type="line"/>
+      <point x="964.9211326885855" y="513.1" type="line"/>
+      <point x="470.5856403823556" y="196.5" type="line"/>
+      <point x="401.365436512735" y="299.14418869538" type="line"/>
+      <point x="752.7474943105475" y="591.5" type="line"/>
+      <point x="493.97465961095094" y="883.8558113046199" type="line"/>
+    </contour>
+  </outline>
+</glyph>

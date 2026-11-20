@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degreefarenheit" format="2">
+  <advance width="1060"/>
+  <unicode hex="2109"/>
+  <outline>
+    <component base="degree" xScale="0.5128625912620507" xOffset="-0.7632873268622689"/>
+    <component base="F" xScale="0.5128625912620507" xOffset="540.563194381029"/>
+  </outline>
+</glyph>

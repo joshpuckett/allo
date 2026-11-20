@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="1060"/>
+  <unicode hex="0125"/>
+  <anchor x="559.3173368215146" y="0" name="bottom"/>
+  <anchor x="201.31733682151457" y="0" name="cedilla"/>
+  <anchor x="469.8506470047099" y="1304" name="cross"/>
+  <anchor x="717.3173368215146" y="0" name="lfthook"/>
+  <anchor x="500.80053321565845" y="1954" name="top"/>
+  <outline>
+    <component base="h" xScale="0.8860709795881679" xOffset="156.4287917216737"/>
+    <component base="circumflexcomb" xScale="0.8860709795881679" xOffset="-31.86191858762072" yOffset="372"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triagup" format="2">
+  <advance width="1060"/>
+  <unicode hex="25B2"/>
+  <outline>
+    <contour>
+      <point x="68.00160766341878" y="227.9113081043034" type="line" smooth="yes"/>
+      <point x="34.375" y="144.54376806164225"/>
+      <point x="73.43966773147696" y="85.99999999995123"/>
+      <point x="143.4426473997691" y="85.99999999995123" type="curve" smooth="yes"/>
+      <point x="916.5766549234172" y="85.99999999995123" type="line" smooth="yes"/>
+      <point x="986.5552141647269" y="85.99999999995123"/>
+      <point x="1025.625" y="144.49677027438048"/>
+      <point x="992.0436461593024" y="227.86573826202638" type="curve" smooth="yes"/>
+      <point x="605.7252385413764" y="1343.573742561291" type="line" smooth="yes"/>
+      <point x="568.5100443400904" y="1424.1255528254496"/>
+      <point x="492.064459946435" y="1424.1434226066494"/>
+      <point x="454.81720756914115" y="1343.619312403568" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

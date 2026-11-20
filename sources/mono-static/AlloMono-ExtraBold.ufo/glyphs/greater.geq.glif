@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.geq" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="1060" y="306.0"/>
+      <point x="1060" y="306.0"/>
+      <point x="1060" y="306.0" type="curve"/>
+      <point x="582.98" y="306.0" type="line"/>
+      <point x="499.5238372395064" y="306.0"/>
+      <point x="470.0" y="276.4761627604936"/>
+      <point x="470.0" y="193.02" type="curve"/>
+      <point x="470.0" y="188.98" type="line"/>
+      <point x="470.0" y="105.52383723950643"/>
+      <point x="499.5238372395064" y="76.0"/>
+      <point x="582.98" y="76.0" type="curve"/>
+      <point x="1060" y="76.0" type="line"/>
+      <point x="1060" y="76.0"/>
+      <point x="1060" y="76.0"/>
+      <point x="1060" y="188.98" type="curve"/>
+      <point x="1060" y="193.02" type="line"/>
+    </contour>
+    <contour>
+      <point x="520.0" y="1014.3717545053767" type="line"/>
+      <point x="1060.0" y="843.3717545053767" type="line"/>
+      <point x="1060.0" y="1084.6282454946233" type="line"/>
+      <point x="520.0" y="1255.6282454946233" type="line"/>
+    </contour>
+    <contour>
+      <point x="520.0" y="330.37175450537666" type="line"/>
+      <point x="1060.0" y="501.37175450537666" type="line"/>
+      <point x="1060.0" y="742.6282454946233" type="line"/>
+      <point x="520.0" y="571.6282454946233" type="line"/>
+    </contour>
+  </outline>
+</glyph>

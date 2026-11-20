@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="1060"/>
+  <unicode hex="0111"/>
+  <anchor x="407.56058413865003" y="0" name="bottom"/>
+  <anchor x="966.0938943218453" y="1304" name="cross"/>
+  <anchor x="605.0938943218454" y="1304" name="top"/>
+  <anchor x="1116.5534002222091" y="1490" name="topbar"/>
+  <anchor x="884.56058413865" y="0" name="bottomr"/>
+  <anchor x="1258.5534002222091" y="1490" name="raccent"/>
+  <outline>
+    <component base="d" xOffset="-83.90251371993418"/>
+    <component base="crossbar" xOffset="386.53690133767486" yOffset="559"/>
+  </outline>
+</glyph>

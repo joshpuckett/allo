@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="1060"/>
+  <unicode hex="0132"/>
+  <anchor x="214.99467949280927" y="0" name="bottom"/>
+  <anchor x="1563.0065247396992" y="884" name="cross"/>
+  <anchor x="416.99467949280927" y="0" name="ogonek"/>
+  <anchor x="442.99467949280927" y="0" name="right"/>
+  <anchor x="252.98749557636833" y="1490" name="tonos"/>
+  <anchor x="1667.9874955763685" y="1490" name="top"/>
+  <outline>
+    <component base="I" xScale="0.556497175141243" xOffset="-31.616723450520766"/>
+    <component base="J" xScale="0.556497175141243" xOffset="477.57819180371655"/>
+  </outline>
+</glyph>

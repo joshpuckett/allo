@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotbelow" format="2">
+  <advance width="1060"/>
+  <unicode hex="1ECA"/>
+  <anchor x="183.4630978585842" y="0" name="bottom"/>
+  <anchor x="306.36942355042436" y="776" name="cross"/>
+  <anchor x="315.4630978585842" y="0" name="ogonek"/>
+  <anchor x="335.4630978585842" y="0" name="right"/>
+  <anchor x="287.4559139421433" y="1490" name="tonos"/>
+  <anchor x="420.4559139421433" y="1490" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotbelow" xOffset="265.0"/>
+  </outline>
+</glyph>

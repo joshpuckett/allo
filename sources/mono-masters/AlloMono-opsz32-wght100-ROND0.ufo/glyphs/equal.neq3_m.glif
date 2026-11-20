@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.neq3_m" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="1060" y="315.12" type="line"/>
+      <point x="0.0" y="315.12" type="line"/>
+      <point x="0.0" y="269.12" type="line"/>
+      <point x="1060" y="269.12" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="606.0" type="line"/>
+      <point x="0.0" y="606.0" type="line"/>
+      <point x="0.0" y="560.0" type="line"/>
+      <point x="1060" y="560.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="896.88" type="line"/>
+      <point x="0.0" y="896.88" type="line"/>
+      <point x="0.0" y="850.88" type="line"/>
+      <point x="1060" y="850.88" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="494.522488888889" type="line"/>
+      <point x="263.0" y="1106.88" type="line"/>
+      <point x="187.0" y="1106.88" type="line"/>
+      <point x="0.0" y="671.4775111111112" type="line"/>
+    </contour>
+  </outline>
+</glyph>

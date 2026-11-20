@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="1060"/>
+  <unicode hex="0176"/>
+  <anchor x="575.4630978585842" y="0" name="bottom"/>
+  <anchor x="642.6087961900214" y="405" name="cross"/>
+  <anchor x="644.4630978585842" y="0" name="ogonek"/>
+  <anchor x="193.45591394214327" y="1490" name="tonos"/>
+  <anchor x="884.4618365655883" y="1932" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="circumflexcomb" xOffset="188.13699509769663" yOffset="372"/>
+  </outline>
+</glyph>

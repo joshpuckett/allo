@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve.1" format="2">
+  <advance width="1060"/>
+  <anchor x="362.4630978585842" y="0" name="bottom"/>
+  <anchor x="484.7358857891262" y="772" name="cross"/>
+  <anchor x="736.4630978585842" y="0" name="ogonek"/>
+  <anchor x="755.4630978585842" y="0" name="right"/>
+  <anchor x="237.45591394214327" y="1490" name="tonos"/>
+  <anchor x="668.7786054462374" y="1934" name="top"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="brevecomb" xOffset="195.9190118007275" yOffset="372"/>
+  </outline>
+</glyph>

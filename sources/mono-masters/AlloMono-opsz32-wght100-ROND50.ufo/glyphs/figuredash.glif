@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="figuredash" format="2">
+  <advance width="1060"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="62.50591874560348" y="607.3574967779144"/>
+      <point x="66.94582267711098" y="603.0"/>
+      <point x="79.17429237850644" y="603.0" type="curve"/>
+      <point x="980.8257076214936" y="603.0" type="line"/>
+      <point x="993.0541773228891" y="603.0"/>
+      <point x="997.4940812543966" y="607.3574967779144"/>
+      <point x="997.5" y="619.675" type="curve"/>
+      <point x="997.5" y="632.325" type="line"/>
+      <point x="997.4940812543966" y="644.6425032220856"/>
+      <point x="993.0541773228891" y="649.0"/>
+      <point x="980.8257076214936" y="649.0" type="curve"/>
+      <point x="79.17429237850644" y="649.0" type="line"/>
+      <point x="66.94582267711098" y="649.0"/>
+      <point x="62.50591874560348" y="644.6425032220856"/>
+      <point x="62.5" y="632.325" type="curve"/>
+      <point x="62.5" y="619.675" type="line"/>
+    </contour>
+  </outline>
+</glyph>

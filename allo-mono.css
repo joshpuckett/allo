@@ -1,0 +1,81 @@
+/* Allo Mono 1.0.3: the monospace variable font (optical size, weight, roundness) and the nine obliques. SIL Open Font License 1.1. https://allo.joshpuckett.me */
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMonoVariable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-ThinOblique.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-ExtraLightOblique.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-LightOblique.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-Oblique.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-MediumOblique.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-SemiBoldOblique.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-BoldOblique.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-ExtraBoldOblique.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Allo Mono";
+  src: url("./fonts/webfonts/AlloMono-BlackOblique.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

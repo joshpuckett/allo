@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="1060"/>
+  <unicode hex="0166"/>
+  <anchor x="554.4630978585842" y="0" name="bottom"/>
+  <anchor x="644.4630978585842" y="0" name="bottomr"/>
+  <anchor x="555.4630978585842" y="0" name="cedilla"/>
+  <anchor x="679.3104258262053" y="763" name="cross"/>
+  <anchor x="648.4630978585842" y="0" name="cyrtic"/>
+  <anchor x="598.4630978585842" y="0" name="right"/>
+  <anchor x="790.4559139421433" y="1490" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="crossbar.uc" xOffset="93.84617094748785" yOffset="18"/>
+  </outline>
+</glyph>

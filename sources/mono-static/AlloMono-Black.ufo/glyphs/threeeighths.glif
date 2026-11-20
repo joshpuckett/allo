@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeeighths" format="2">
+  <advance width="1060"/>
+  <unicode hex="215C"/>
+  <anchor x="413" y="1507" name="top"/>
+  <outline>
+    <component base="three.numr" xScale="0.5305247144273533" xOffset="-57.01247065068969"/>
+    <component base="fraction" xScale="0.5305247144273533" xOffset="237.95927057091876"/>
+    <component base="eight.dnom" xScale="0.5305247144273533" xOffset="618.8760155297584"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="1060"/>
+  <unicode hex="00BD"/>
+  <anchor x="1437" y="385" name="cross"/>
+  <anchor x="1366" y="842" name="top"/>
+  <outline>
+    <component base="one.numr" xScale="0.6231009729265568" xOffset="-133.29153591241254"/>
+    <component base="fraction" xScale="0.6231009729265568" xOffset="129.0347649158129"/>
+    <component base="two.dnom" xScale="0.6231009729265568" xOffset="561.1544984142349"/>
+  </outline>
+</glyph>

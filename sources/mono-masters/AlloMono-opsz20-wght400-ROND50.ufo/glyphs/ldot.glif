@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="1060"/>
+  <unicode hex="0140"/>
+  <anchor x="60.57503660287216" y="0" name="bottom"/>
+  <anchor x="148.57503660287216" y="0" name="bottomr"/>
+  <anchor x="148.57503660287216" y="745" name="centerr"/>
+  <anchor x="60.57503660287216" y="768" name="cross"/>
+  <anchor x="290.57503660287216" y="1490" name="raccent"/>
+  <anchor x="61.57503660287216" y="1490" name="top"/>
+  <outline>
+    <component base="l" xOffset="-159.42496339712784"/>
+    <component base="periodcentered" xOffset="377.0" yOffset="37"/>
+  </outline>
+</glyph>

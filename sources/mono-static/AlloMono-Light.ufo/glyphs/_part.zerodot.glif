@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.zerodot" format="2">
+  <advance width="1060"/>
+  <anchor x="526.5" y="745" name="_center"/>
+  <outline>
+    <contour>
+      <point x="435.5" y="746.0" type="curve" smooth="yes"/>
+      <point x="435.5" y="693.0"/>
+      <point x="477.5" y="651.0"/>
+      <point x="530.5" y="651.0" type="curve" smooth="yes"/>
+      <point x="582.5" y="651.0"/>
+      <point x="624.5" y="693.0"/>
+      <point x="624.5" y="746.0" type="curve" smooth="yes"/>
+      <point x="624.5" y="797.0"/>
+      <point x="582.5" y="840.0"/>
+      <point x="530.5" y="840.0" type="curve" smooth="yes"/>
+      <point x="477.5" y="840.0"/>
+      <point x="435.5" y="797.0"/>
+    </contour>
+  </outline>
+</glyph>

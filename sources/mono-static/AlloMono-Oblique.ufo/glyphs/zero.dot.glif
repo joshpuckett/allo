@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dot" format="2">
+  <advance width="1060"/>
+  <anchor x="660.4595059003638" y="745" name="center"/>
+  <anchor x="778.4559139421433" y="1490" name="top"/>
+  <outline>
+    <component base="zero.plain"/>
+    <component base="_part.zerodot"/>
+  </outline>
+</glyph>

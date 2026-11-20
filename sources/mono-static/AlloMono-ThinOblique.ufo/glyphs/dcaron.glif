@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="1060"/>
+  <unicode hex="010F"/>
+  <anchor x="438.4853551186495" y="0" name="bottom"/>
+  <anchor x="1037.0186653018447" y="1304" name="cross"/>
+  <anchor x="645.0186653018449" y="1304" name="top"/>
+  <anchor x="1101.4781712022086" y="1490" name="topbar"/>
+  <anchor x="875.4853551186495" y="0" name="bottomr"/>
+  <anchor x="1239.4781712022086" y="1490" name="raccent"/>
+  <outline>
+    <component base="d" xOffset="-29.977742739934683"/>
+    <component base="commaaccentright.cn" xOffset="739.2210108410179"/>
+  </outline>
+</glyph>

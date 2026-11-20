@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less.leq" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="1060" y="177.2"/>
+      <point x="1060" y="177.2"/>
+      <point x="1060" y="177.2" type="curve"/>
+      <point x="486.3125" y="177.2" type="line"/>
+      <point x="474.26276858709025" y="177.2"/>
+      <point x="470.0" y="172.93723141290974"/>
+      <point x="470.0" y="160.8875" type="curve"/>
+      <point x="470.0" y="147.5125" type="line"/>
+      <point x="470.0" y="135.46276858709024"/>
+      <point x="474.26276858709025" y="131.2"/>
+      <point x="486.3125" y="131.2" type="curve"/>
+      <point x="1060" y="131.2" type="line"/>
+      <point x="1060" y="131.2"/>
+      <point x="1060" y="131.2"/>
+      <point x="1060" y="147.5125" type="curve"/>
+      <point x="1060" y="160.8875" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="946.5277142574995" type="line"/>
+      <point x="513.56" y="728.84" type="line"/>
+      <point x="513.56" y="688.36" type="line"/>
+      <point x="1060" y="470.67228574250043" type="line"/>
+      <point x="1060" y="520.1277142574996" type="line"/>
+      <point x="582.6311711962935" y="708.6" type="line"/>
+      <point x="1060" y="897.0722857425004" type="line"/>
+    </contour>
+  </outline>
+</glyph>

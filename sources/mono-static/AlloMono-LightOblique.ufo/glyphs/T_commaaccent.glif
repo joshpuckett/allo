@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="1060"/>
+  <unicode hex="0162"/>
+  <anchor x="544.4630978585842" y="0" name="bottom"/>
+  <anchor x="610.4630978585842" y="0" name="bottomr"/>
+  <anchor x="544.4630978585842" y="0" name="cedilla"/>
+  <anchor x="669.6271947068544" y="765" name="cross"/>
+  <anchor x="614.4630978585842" y="0" name="cyrtic"/>
+  <anchor x="577.4630978585842" y="0" name="right"/>
+  <anchor x="779.4559139421433" y="1490" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="cedillacomb" xOffset="291.8137831980316"/>
+  </outline>
+</glyph>

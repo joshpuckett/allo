@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="1060"/>
+  <unicode hex="00D8"/>
+  <anchor x="698.4630978585842" y="0" name="bottom"/>
+  <anchor x="816.4595059003638" y="745" name="center"/>
+  <anchor x="1527.3011214600392" y="744" name="ogonek"/>
+  <anchor x="369.4559139421433" y="1490" name="tonos"/>
+  <anchor x="934.4559139421433" y="1490" name="top"/>
+  <anchor x="947.623602748634" y="1510" name="tophorn"/>
+  <outline>
+    <component base="O" xScale="0.8556808672552314" xOffset="75.79141384842535"/>
+    <component base="_part.Oslash" xScale="0.8556808672552314" xOffset="-10.919487936173937"/>
+  </outline>
+</glyph>

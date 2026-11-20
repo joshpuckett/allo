@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorndotbelow" format="2">
+  <advance width="1060"/>
+  <unicode hex="1EF1"/>
+  <anchor x="519.4630978585842" y="0" name="bottom"/>
+  <anchor x="983.4630978585842" y="0" name="ogonek"/>
+  <anchor x="938.5369021414158" y="1118" name="rtophorn"/>
+  <anchor x="693.5369021414158" y="1118" name="top"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="dotbelow" xOffset="120.04101264184101"/>
+  </outline>
+</glyph>

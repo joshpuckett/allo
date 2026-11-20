@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.dconn" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="1060" y="430.0" type="line"/>
+      <point x="0.0" y="430.0" type="line"/>
+      <point x="0.0" y="304.0" type="line"/>
+      <point x="1060" y="304.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="863.0" type="line"/>
+      <point x="0.0" y="863.0" type="line"/>
+      <point x="0.0" y="737.0" type="line"/>
+      <point x="1060" y="737.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve" format="2">
+  <advance width="1060"/>
+  <unicode hex="0114"/>
+  <anchor x="576.4630978585842" y="0" name="bottom"/>
+  <anchor x="576.4630978585842" y="0" name="cedilla"/>
+  <anchor x="1043.4630978585842" y="0" name="ogonek"/>
+  <anchor x="317.4559139421433" y="1490" name="tonos"/>
+  <anchor x="842.1450676849392" y="1930" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="brevecomb" xOffset="239.91897976562313" yOffset="372"/>
+  </outline>
+</glyph>

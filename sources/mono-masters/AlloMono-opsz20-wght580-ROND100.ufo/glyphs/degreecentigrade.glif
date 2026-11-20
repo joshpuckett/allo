@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degreecentigrade" format="2">
+  <advance width="1060"/>
+  <unicode hex="2103"/>
+  <outline>
+    <component base="degree" xScale="0.5083239323045421" xOffset="-58.28576551018807"/>
+    <component base="C" xScale="0.5083239323045421" xOffset="532.0828545149564"/>
+  </outline>
+</glyph>

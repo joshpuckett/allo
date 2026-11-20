@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less.dlarrow" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="1060" y="476.0" type="line"/>
+      <point x="342.0" y="476.0" type="line"/>
+      <point x="342.0" y="223.0" type="line"/>
+      <point x="1060" y="223.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="968.0" type="line"/>
+      <point x="342.0" y="968.0" type="line"/>
+      <point x="342.0" y="715.0" type="line"/>
+      <point x="1060" y="715.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="532.0" y="990.5" type="line"/>
+      <point x="628.5437227719742" y="874.5670547324503" type="line"/>
+      <point x="337.04999999999995" y="595.5" type="line"/>
+      <point x="628.5437227719742" y="316.4329452675497" type="line"/>
+      <point x="532.0" y="200.5" type="line"/>
+      <point x="83.38251089121032" y="506.95" type="line"/>
+      <point x="83.38251089121032" y="684.05" type="line"/>
+    </contour>
+  </outline>
+</glyph>

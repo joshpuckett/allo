@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="1060"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="509.47692362917724" y="335.9459397556303"/>
+      <point x="518.4459695187418" y="327.0"/>
+      <point x="529.5" y="327.0" type="curve"/>
+      <point x="529.5" y="327.0" type="line"/>
+      <point x="540.5540304812582" y="327.0"/>
+      <point x="549.5230763708228" y="335.9459397556303"/>
+      <point x="549.55159054203" y="346.9999334602886" type="curve"/>
+      <point x="552.4406708766655" y="1467.000076520668" type="line"/>
+      <point x="552.4734126614735" y="1479.6929750978793"/>
+      <point x="542.1929408064423" y="1490.0"/>
+      <point x="529.5" y="1490.0" type="curve"/>
+      <point x="529.5" y="1490.0" type="line"/>
+      <point x="516.8070591935577" y="1490.0"/>
+      <point x="506.5265873385265" y="1479.6929750978793"/>
+      <point x="506.55932912333446" y="1467.000076520668" type="curve"/>
+      <point x="509.44840945797" y="346.9999334602886" type="line"/>
+    </contour>
+    <contour>
+      <point x="560.5" y="-15.0"/>
+      <point x="585.5" y="10.0"/>
+      <point x="585.5" y="41.0" type="curve"/>
+      <point x="585.5" y="72.0"/>
+      <point x="560.5" y="97.0"/>
+      <point x="529.5" y="97.0" type="curve"/>
+      <point x="498.5" y="97.0"/>
+      <point x="474.5" y="72.0"/>
+      <point x="474.5" y="41.0" type="curve"/>
+      <point x="474.5" y="10.0"/>
+      <point x="498.5" y="-15.0"/>
+      <point x="529.5" y="-15.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

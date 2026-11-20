@@ -21,11 +21,32 @@ Get `Allo-1.0.3.zip` from the [latest release](https://github.com/joshpuckett/al
 
 | Folder | Contents |
 |---|---|
-| `fonts/otf` | 18 static fonts, Thin to Black, each with an Oblique |
-| `fonts/variable` | `AlloVariable.ttf`: all optical sizes, weights and roundnesses |
-| `fonts/webfonts` | The same fonts as WOFF2, plus `AlloVariableFriendly.woff2` (roundness fixed at 50, about half the size) |
+| `fonts/otf` | 18 static fonts for **Allo** and 18 for **Allo Mono**, Thin to Black, each with an Oblique |
+| `fonts/variable` | `AlloVariable.ttf` and `AlloMonoVariable.ttf`: all optical sizes, weights and roundnesses |
+| `fonts/webfonts` | The same fonts as WOFF2, plus `AlloVariableFriendly.woff2` and `AlloMonoVariableFriendly.woff2` (roundness fixed at 50, about half the size) |
 
-The static and variable fonts are separate families, **Allo** and **Allo Variable**, so both can be installed.
+The static and variable fonts are separate families (**Allo** / **Allo Variable**, and **Allo Mono** / **Allo Mono Variable**), so both can be installed.
+
+## Allo Mono
+
+**Allo Mono** is the monospace sibling built for coding, terminals, and TUIs:
+
+- **Fixed cell width:** `1060` units on a `2048` UPM (`0.518 em`) across all glyphs, weights, optical sizes, roundness values, and obliques (`isFixedPitch=1`, PANOSE monospaced, zero kerning).
+- **Coding disambiguation on by default:** serifed `I`, `i`, `l`, `j`, footed `1`, and slashed `0` (with `cv05` dotted zero, `cv06` plain zero, `cv07` serifless `I`, `ss01` single-story `a`, `ss03` open figures).
+- **Grid-safe coding ligatures (`calt`):** `->`, `<-`, `-->`, `<--`, `<->`, `=>`, `<=>`, `!=`, `!==`, `==`, `===`, `<=`, `>=` implemented as 1-to-1 cell-preserving substitutions so columns and cursors never shift. Disable with `font-variant-ligatures: no-contextual`.
+- **Terminal & TUI coverage:** full Unicode Box Drawing (`U+2500`–`U+257F`), Block Elements (`U+2580`–`U+259F`), and Powerline symbols (`U+E0A0`–`U+E0A2`, `U+E0B0`–`U+E0B3`), with legacy PUA codes cleared so icon fallbacks don't collide.
+- **Axes (`Allo Mono Variable`):** `opsz` `14–32` (Text to Display), `wght` `100–900`, `ROND` `0–100` (Sharp to Round).
+
+```js
+import "allo-font/mono";            // Allo Mono variable font + obliques
+// import "allo-font/mono-friendly"; // roundness fixed at 50, smaller file
+```
+
+```css
+code, pre {
+  font-family: "Allo Mono", ui-monospace, monospace;
+}
+```
 
 ## Web
 
@@ -111,8 +132,13 @@ python3 -m venv .venv
 .venv/bin/python build.py
 ```
 
-Writes `fonts/` (variable TTF and WOFF2; 18 static OTFs and WOFF2s, autohinted with AFDKO), `fonts/SHA256SUMS` and
-`Allo-1.0.3.zip`. Dependencies are pinned and `release.json` fixes the timestamp, so builds are reproducible.
+Writes `fonts/` (variable TTFs and WOFF2s; 18 static OTFs and WOFF2s each for Allo and Allo Mono, autohinted with AFDKO), `fonts/SHA256SUMS`, `Allo-1.0.3.zip`, and `AlloMono-1.0.3.zip`. Dependencies are pinned and `release.json` fixes the timestamp, so builds are reproducible.
+
+To regenerate the Allo Mono UFO sources from the proportional masters and static UFOs:
+
+```sh
+.venv/bin/python scripts/generate_mono.py
+```
 
 ## Sources
 
@@ -123,6 +149,9 @@ the sources as they are. Keep points compatible across masters.
 
 `sources/static` holds the 18 static fonts' sources: cut from the variable masters at opsz 14, ROND 50, then edited
 separately. The obliques are separate drawings, not a slant axis.
+
+`sources/AlloMono.designspace`, `sources/mono-masters`, and `sources/mono-static` hold the monospace sources
+(opsz 14, 20, 32 × wght 100, 400, 580, 900 × ROND 0, 50, 100 + 8 sparse layers, plus 18 static UFOs).
 
 ## Contributing
 

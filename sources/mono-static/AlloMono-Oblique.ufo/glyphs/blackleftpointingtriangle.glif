@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackleftpointingtriangle" format="2">
+  <advance width="1060"/>
+  <unicode hex="25C0"/>
+  <outline>
+    <contour>
+      <point x="126.92466095496825" y="801.8128878833045" type="line" smooth="yes"/>
+      <point x="79.14780426699144" y="770.6546562168719"/>
+      <point x="77.11006494584248" y="726.9255962114826"/>
+      <point x="118.56631062814029" y="691.1501848576645" type="curve" smooth="yes"/>
+      <point x="834.1382839212146" y="-2.345090064751254" type="line" smooth="yes"/>
+      <point x="875.1248414408607" y="-36.70054527924887"/>
+      <point x="921.2076425118881" y="-20.319223850377675"/>
+      <point x="932.4255526527872" y="41.591552684753125" type="curve" smooth="yes"/>
+      <point x="1151.3531737849048" y="1430.2397681984894" type="line" smooth="yes"/>
+      <point x="1160.6865044865876" y="1499.9902716981753"/>
+      <point x="1115.8701445532301" y="1529.8197966736293"/>
+      <point x="1062.242182277801" y="1496.1093141488611" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

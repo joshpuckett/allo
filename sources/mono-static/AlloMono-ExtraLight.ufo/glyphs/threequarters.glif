@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="1060"/>
+  <unicode hex="00BE"/>
+  <anchor x="345" y="1471" name="top"/>
+  <outline>
+    <component base="three.numr" xScale="0.5907350559124475" xOffset="-57.53979289079939"/>
+    <component base="fraction" xScale="0.5907350559124475" xOffset="206.20906804274898"/>
+    <component base="four.dnom" xScale="0.5907350559124475" xOffset="568.6393663763948"/>
+  </outline>
+</glyph>

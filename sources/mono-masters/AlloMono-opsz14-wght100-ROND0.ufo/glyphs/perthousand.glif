@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1060"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="_zero_percent" xScale="0.4563201561737433" xOffset="55.65519765739384"/>
+    <component base="fraction" xScale="0.4563201561737433" xOffset="140.75902994591547"/>
+    <component base="_zero_percent1" xScale="0.4563201561737433" xOffset="441.70204978038066"/>
+    <component base="_zero_percent1" xScale="0.4563201561737433" xOffset="736.4848706686189"/>
+  </outline>
+</glyph>

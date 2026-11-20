@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triagdn" format="2">
+  <advance width="1060"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="235.77254455890676" y="1387.0" type="line" smooth="yes"/>
+      <point x="200.672549835327" y="1387.0"/>
+      <point x="178.41553048570955" y="1361.891560718604"/>
+      <point x="189.1195249957499" y="1318.9694626200078" type="curve" smooth="yes"/>
+      <point x="421.3294103057215" y="140.04260199884288" type="line" smooth="yes"/>
+      <point x="434.50848688415203" y="94.55388000600249"/>
+      <point x="475.34118295108794" y="90.59819790516102"/>
+      <point x="501.847120634574" y="130.1827727838719" type="curve" smooth="yes"/>
+      <point x="1109.8324950738338" y="1309.536722699885" type="line" smooth="yes"/>
+      <point x="1134.3639757348321" y="1352.0954295601507"/>
+      <point x="1115.545601825619" y="1387.0"/>
+      <point x="1076.0672537044313" y="1387.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

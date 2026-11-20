@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.larrow" format="2">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="938.0" y="650.511514935076"/>
+      <point x="898.511514935076" y="690.0"/>
+      <point x="849.8" y="690.0" type="curve"/>
+      <point x="0.0" y="690.0" type="line"/>
+      <point x="0.0" y="690.0"/>
+      <point x="0.0" y="690.0"/>
+      <point x="0.0" y="601.8" type="curve"/>
+      <point x="0.0" y="568.2" type="line"/>
+      <point x="0.0" y="480.0"/>
+      <point x="0.0" y="480.0"/>
+      <point x="0.0" y="480.0" type="curve"/>
+      <point x="849.8" y="480.0" type="line"/>
+      <point x="898.511514935076" y="480.0"/>
+      <point x="938.0" y="519.488485064924"/>
+      <point x="938.0" y="568.2" type="curve"/>
+      <point x="938.0" y="601.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scommaaccent" format="2">
+  <advance width="1060"/>
+  <unicode hex="0219"/>
+  <anchor x="416.4630978585842" y="0" name="bottom"/>
+  <anchor x="414.4630978585842" y="0" name="cedilla"/>
+  <anchor x="78.00951458166551" y="256" name="rthook"/>
+  <anchor x="593.5369021414158" y="1118" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="commaaccent" xOffset="274.0"/>
+  </outline>
+</glyph>

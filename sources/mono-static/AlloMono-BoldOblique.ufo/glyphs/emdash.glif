@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="1060"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="1032.3660515931385" y="637.0761929250214" type="line" smooth="yes"/>
+      <point x="1044.3974265434135" y="724.7931484202256"/>
+      <point x="1004.5132099819782" y="762.0"/>
+      <point x="953.8443648759069" y="762.0" type="curve" smooth="yes"/>
+      <point x="155.6905447315571" y="762.0" type="line" smooth="yes"/>
+      <point x="115.34393793172154" y="762.0"/>
+      <point x="69.9731864573454" y="741.0691782472773"/>
+      <point x="57.719074474479726" y="670.873833301887" type="curve" smooth="yes"/>
+      <point x="53.92576699103034" y="646.9238323041368" type="line" smooth="yes"/>
+      <point x="41.89437924071158" y="559.2068664555748"/>
+      <point x="81.77859601536517" y="522.0"/>
+      <point x="132.4474497123585" y="522.0" type="curve" smooth="yes"/>
+      <point x="930.6012723623187" y="522.0" type="line" smooth="yes"/>
+      <point x="970.9478873662483" y="522.0"/>
+      <point x="1016.3186414744747" y="542.93083157408"/>
+      <point x="1028.5727466152994" y="613.1261919272711" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

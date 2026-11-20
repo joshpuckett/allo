@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="1060"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="_zero_percent" xScale="0.6115845959595959" xOffset="23.60795454545456"/>
+    <component base="fraction" xScale="0.6115845959595959" xOffset="202.49644886363637"/>
+    <component base="_zero_percent1" xScale="0.6115845959595959" xOffset="607.6712436868687"/>
+  </outline>
+</glyph>

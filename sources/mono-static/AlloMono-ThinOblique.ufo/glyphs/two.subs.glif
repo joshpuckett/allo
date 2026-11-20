@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.subs" format="2">
+  <advance width="1060"/>
+  <unicode hex="2082"/>
+  <anchor x="409.5407043151356" y="51" name="cross"/>
+  <anchor x="411.2795514159843" y="485" name="top"/>
+  <outline>
+    <component base="two.sups" xOffset="-189.74455950879445" yOffset="-1198"/>
+  </outline>
+</glyph>

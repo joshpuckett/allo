@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hdotbelow" format="2">
+  <advance width="1060"/>
+  <unicode hex="1E25"/>
+  <anchor x="515.4630978585842" y="0" name="bottom"/>
+  <anchor x="161.4630978585842" y="0" name="cedilla"/>
+  <anchor x="443.99640804177955" y="1304" name="cross"/>
+  <anchor x="758.4630978585842" y="0" name="lfthook"/>
+  <anchor x="396.4559139421433" y="1490" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="dotbelow" xOffset="280.99999357700744"/>
+  </outline>
+</glyph>

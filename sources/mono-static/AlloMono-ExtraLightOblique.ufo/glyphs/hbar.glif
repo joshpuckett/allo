@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="1060"/>
+  <unicode hex="0127"/>
+  <anchor x="590.5806909250952" y="0" name="bottom"/>
+  <anchor x="224.5806909250952" y="0" name="cedilla"/>
+  <anchor x="470.11400110829055" y="1304" name="cross"/>
+  <anchor x="909.5806909250952" y="0" name="lfthook"/>
+  <anchor x="460.5735070086543" y="1490" name="top"/>
+  <outline>
+    <component base="h" xOffset="90.11759306651099"/>
+    <component base="crossbar" xOffset="-26.463102227502148" yOffset="559"/>
+  </outline>
+</glyph>

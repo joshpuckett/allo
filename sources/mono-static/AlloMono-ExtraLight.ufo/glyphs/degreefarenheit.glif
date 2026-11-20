@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degreefarenheit" format="2">
+  <advance width="1060"/>
+  <unicode hex="2109"/>
+  <anchor x="1161" y="0" name="bottom"/>
+  <anchor x="1156" y="389" name="cross"/>
+  <anchor x="1109" y="0" name="lfthook"/>
+  <anchor x="1527" y="1490" name="top"/>
+  <outline>
+    <component base="degree" xScale="0.5254025541365908" xOffset="-58.1881593559134"/>
+    <component base="F" xScale="0.5254025541365908" xOffset="489.5440033314825"/>
+  </outline>
+</glyph>

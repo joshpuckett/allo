@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="1060"/>
+  <unicode hex="014A"/>
+  <anchor x="652.0035946563752" y="0" name="bottom"/>
+  <anchor x="86.0035946563752" y="0" name="lfthook"/>
+  <anchor x="1215.0035946563753" y="0" name="lfthook2"/>
+  <anchor x="887.9964107399343" y="1490" name="top"/>
+  <outline>
+    <component base="N" xOffset="-29.45950320220902"/>
+    <component base="_part.bottom_lfthook2_uc" xOffset="550.1654893868105"/>
+  </outline>
+</glyph>

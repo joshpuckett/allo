@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis" format="2">
+  <advance width="1060"/>
+  <unicode hex="0178"/>
+  <anchor x="563.4630978585842" y="0" name="bottom"/>
+  <anchor x="632.142947235214" y="421" name="cross"/>
+  <anchor x="607.4630978585842" y="0" name="ogonek"/>
+  <anchor x="197.45591394214327" y="1490" name="tonos"/>
+  <anchor x="860.5333101831953" y="1863" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dieresiscomb" xOffset="12.091262608645025" yOffset="372"/>
+  </outline>
+</glyph>

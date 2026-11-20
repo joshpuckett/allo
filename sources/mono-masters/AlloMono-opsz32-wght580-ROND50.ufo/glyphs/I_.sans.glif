@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.sans" format="2">
+  <advance width="1060"/>
+  <anchor x="530.0" y="0" name="bottom"/>
+  <anchor x="530.0" y="775" name="cross"/>
+  <anchor x="661.0" y="0" name="ogonek"/>
+  <anchor x="681.0" y="0" name="right"/>
+  <anchor x="399.0" y="1490" name="tonos"/>
+  <anchor x="530.0" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="661.0" y="1466.5074086755917"/>
+      <point x="637.5074086755919" y="1490.0"/>
+      <point x="571.1" y="1490.0" type="curve"/>
+      <point x="488.9" y="1490.0" type="line"/>
+      <point x="422.49259132440807" y="1490.0"/>
+      <point x="399.0" y="1466.5074086755917"/>
+      <point x="399.0" y="1400.1" type="curve"/>
+      <point x="399.0" y="89.89999999999998" type="line"/>
+      <point x="399.0" y="23.492591324408096"/>
+      <point x="422.49259132440807" y="0.0"/>
+      <point x="488.9" y="0.0" type="curve"/>
+      <point x="571.1" y="0.0" type="line"/>
+      <point x="637.5074086755919" y="0.0"/>
+      <point x="661.0" y="23.492591324408096"/>
+      <point x="661.0" y="89.89999999999998" type="curve"/>
+      <point x="661.0" y="1400.1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

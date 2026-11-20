@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneeighth" format="2">
+  <advance width="1060"/>
+  <unicode hex="215B"/>
+  <outline>
+    <component base="one.numr" xScale="0.6628646039504832" xOffset="-133.0436294382863"/>
+    <component base="fraction" xScale="0.6628646039504832" xOffset="95.31322662265507"/>
+    <component base="eight.dnom" xScale="0.6628646039504832" xOffset="511.2607656015833"/>
+  </outline>
+</glyph>

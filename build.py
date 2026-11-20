@@ -28,19 +28,21 @@ def save(font, path):
     return [path, web]
 
 
-def friendly_web(variable):
-    """The lighter web font (Josh, 2026-11-14): the variable font with roundness fixed at Friendly (50), keeping
-    optical size and weight; about half the size. Its own family, "Allo Variable Friendly", so it never stands in
-    for the full font. Web only (fonts/webfonts/AlloVariableFriendly.woff2)."""
+def friendly_web(variable, var_stem='AlloVariable', family_label='Allo Variable'):
+    """The lighter web font: the variable font with roundness fixed at Friendly (50), keeping
+    optical size and weight; about half the size. Its own family, "<family_label> Friendly", so it never stands in
+    for the full font. Web only (fonts/webfonts/<var_stem>Friendly.woff2)."""
     from fontTools.varLib.instancer import instantiateVariableFont
     font = instantiateVariableFont(variable, {'ROND': 50})
+    friendly_stem = f'{var_stem}Friendly'
+    friendly_label = f'{family_label} Friendly'
     for record in font['name'].names:
         text = record.toUnicode()
-        new = text.replace('AlloVariable', 'AlloVariableFriendly').replace('Allo Variable', 'Allo Variable Friendly')
+        new = text.replace(var_stem, friendly_stem).replace(family_label, friendly_label)
         if new != text:
             record.string = new
     font.flavor = 'woff2'
-    web = ROOT / 'fonts/webfonts/AlloVariableFriendly.woff2'
+    web = ROOT / 'fonts/webfonts' / f'{friendly_stem}.woff2'
     font.save(web)
     return web
 
@@ -343,23 +345,63 @@ ZIP_README = '''
 '''
 
 
-def main():
-    ds = DesignSpaceDocument.fromfile(ROOT / 'sources/Allo.designspace')
+MONO_ZIP_README = '''
+  ALLO MONO  {version} ....................................... type specimen
+
+  A friendly monospace typeface for coding and terminals, based on Allo.
+  Fixed 1060-unit cell width (0.518 em), nine weights with obliques,
+  and a variable font with three axes.
+
+
+  AXES  (variable font)
+    wght   100 ●━━━━━━━━━○━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━● 900
+                         400
+    opsz    14 ○━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━● 32
+               text                                     display
+    ROND     0 ●━━━━━━━━━━━━━━━━━━━━━━━○━━━━━━━━━━━━━━━━━━━━● 100
+               sharp               friendly               round
+
+
+  FEATURES
+    ss01   Single-story a       a, and its accented forms
+    ss02   Disambiguation       enabled by default (serifed I, i, l, j;
+                                footed 1; slashed zero)
+    ss03   Open figures         4 6 9 with open forms
+    cv05   Dotted zero          cv06   Plain zero       cv07   Serifless I
+    calt   Coding ligatures     ->  <-  -->  <--  <->  =>  <=>
+                                !=  !==  ==  ===  <=  >=
+                                (1-to-1 cell-preserving, grid-safe)
+
+    Includes Unicode Box Drawing (U+2500–U+257F), Block Elements
+    (U+2580–U+259F), and Powerline symbols (U+E0A0–U+E0A2, U+E0B0–U+E0B3).
+
+
+  FILES
+    fonts/otf/        18 static fonts (AlloMono-*.otf). Install for editors/terminals.
+    fonts/variable/   AlloMonoVariable.ttf ("Allo Mono Variable").
+    fonts/webfonts/   WOFF2 fonts + AlloMonoVariableFriendly.woff2 (ROND=50).
+    OFL.txt           SIL Open Font License 1.1.
+'''
+
+
+def build_family(ds_path, static_dir, var_stem, family_label, static_prefix, small_shift=0):
+    """Compile one font family (variable TTF + friendly WOFF2 + 18 static hinted OTFs & WOFF2s)."""
+    ds = DesignSpaceDocument.fromfile(ds_path)
     ds.loadSourceFonts(ufoLib2.Font.open)
     for instance in ds.instances:
         instance.localisedStyleName = {'en': instance.styleName, **instance.localisedStyleName}
-    statics = {path.stem: ufoLib2.Font.open(path) for path in sorted((ROOT / 'sources/static').glob('*.ufo'))}
+    statics = {path.stem: ufoLib2.Font.open(path) for path in sorted(static_dir.glob('*.ufo'))}
     default = ds.findDefault().font.info
     win = (default.openTypeOS2WinAscent, default.openTypeOS2WinDescent)
     assert all((f.info.openTypeOS2WinAscent, f.info.openTypeOS2WinDescent) == win for f in [s.font for s in ds.sources] + list(statics.values())), 'Windows metrics differ between sources'
     check_win([s.font for s in ds.sources] + list(statics.values()), win)
     variable = compileVariableTTF(ds, useProductionNames=False, flattenComponents=True)
-    if CONFIG.get('smallShift'):
-        exact_small(variable, CONFIG['smallShift'])
+    if small_shift:
+        exact_small(variable, small_shift)
     drop_unreachable(variable)
     smooth_unhinted(variable)
-    files = save(variable, ROOT / 'fonts/variable/AlloVariable.ttf')
-    files.append(friendly_web(variable))
+    files = save(variable, ROOT / f'fonts/variable/{var_stem}.ttf')
+    files.append(friendly_web(variable, var_stem=var_stem, family_label=family_label))
     otfs = {}
     for stem, ufo in statics.items():
         otfs[stem] = ROOT / 'fonts/otf' / (stem + '.otf')
@@ -367,22 +409,54 @@ def main():
         otf = compileOTF(ufo, removeOverlaps=False, useProductionNames=False)
         drop_unreachable(otf)
         otf.save(otfs[stem])
-    hint_otfs({w: (otfs[f'Allo-{w}'], otfs['Allo-' + ('' if w == 'Regular' else w) + 'Oblique']) for w in WEIGHT_NAMES})
+    hint_otfs({w: (otfs[f'{static_prefix}-{w}'], otfs[f'{static_prefix}-' + ('' if w == 'Regular' else w) + 'Oblique']) for w in WEIGHT_NAMES})
     for path in otfs.values():
         files += save(TTFont(path), path)
-    hashes = {str(p.relative_to(ROOT)): hashlib.sha256(p.read_bytes()).hexdigest() for p in files}
-    (ROOT / 'fonts/SHA256SUMS').write_text(''.join(f'{digest}  {name}\n' for name, digest in sorted(hashes.items())))
-    files += [ROOT / 'fonts/SHA256SUMS', ROOT / 'OFL.txt']
-    archive = ROOT / f"Allo-{CONFIG['version']}.zip"
+    return files
+
+
+def write_archive(archive, prefix, files, readme_text):
     date = time.gmtime(int(os.environ['SOURCE_DATE_EPOCH']))[:6]
     entries = {str(path.relative_to(ROOT)): path.read_bytes() for path in files if path.name != 'SHA256SUMS'}
-    entries['README.txt'] = ZIP_README.replace('{version}', CONFIG['version']).replace('{characters}', str(len(variable.getBestCmap()))).encode()
+    entries['README.txt'] = readme_text.encode()
     with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as z:
         for name, data in sorted(entries.items()):
-            info = zipfile.ZipInfo('Allo-' + CONFIG['version'] + '/' + name, date)
+            info = zipfile.ZipInfo(prefix + '/' + name, date)
             info.compress_type = zipfile.ZIP_DEFLATED
             info.external_attr = 0o644 << 16
             z.writestr(info, data)
+
+
+def main():
+    allo_files = build_family(
+        ROOT / 'sources/Allo.designspace',
+        ROOT / 'sources/static',
+        'AlloVariable',
+        'Allo Variable',
+        'Allo',
+        small_shift=CONFIG.get('smallShift', 0),
+    )
+    mono_files = []
+    if (ROOT / 'sources/AlloMono.designspace').exists():
+        mono_files = build_family(
+            ROOT / 'sources/AlloMono.designspace',
+            ROOT / 'sources/mono-static',
+            'AlloMonoVariable',
+            'Allo Mono Variable',
+            'AlloMono',
+            small_shift=0,
+        )
+    all_files = allo_files + mono_files
+    hashes = {str(p.relative_to(ROOT)): hashlib.sha256(p.read_bytes()).hexdigest() for p in all_files}
+    (ROOT / 'fonts/SHA256SUMS').write_text(''.join(f'{digest}  {name}\n' for name, digest in sorted(hashes.items())))
+    allo_char_count = len(TTFont(ROOT / 'fonts/variable/AlloVariable.ttf').getBestCmap())
+    readme_text = ZIP_README.replace('{version}', CONFIG['version']).replace('{characters}', str(allo_char_count))
+    archive = ROOT / f"Allo-{CONFIG['version']}.zip"
+    write_archive(archive, 'Allo-' + CONFIG['version'], allo_files + [ROOT / 'fonts/SHA256SUMS', ROOT / 'OFL.txt'], readme_text)
+    if mono_files:
+        mono_archive = ROOT / f"AlloMono-{CONFIG['version']}.zip"
+        mono_readme = MONO_ZIP_README.replace('{version}', CONFIG['version'])
+        write_archive(mono_archive, 'AlloMono-' + CONFIG['version'], mono_files + [ROOT / 'fonts/SHA256SUMS', ROOT / 'OFL.txt'], mono_readme)
     print(f'{len(hashes)} font files built; {archive.name}')
 
 

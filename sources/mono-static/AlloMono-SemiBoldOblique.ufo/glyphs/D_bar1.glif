@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dbar1" format="2">
+  <advance width="1060"/>
+  <anchor x="609.4630978585842" y="0" name="bottom"/>
+  <anchor x="462.45950590036375" y="745" name="cross"/>
+  <anchor x="811.4559139421433" y="1490" name="top"/>
+  <anchor x="355.4559139421433" y="1490" name="topl"/>
+  <outline>
+    <component base="D" xScale="0.9599119646023708" xOffset="35.424546347046146"/>
+    <component base="crossbar_short.uc" xScale="0.9599119646023708" xOffset="39.264196138962006"/>
+  </outline>
+</glyph>

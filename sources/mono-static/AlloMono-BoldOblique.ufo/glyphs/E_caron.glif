@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="1060"/>
+  <unicode hex="011A"/>
+  <anchor x="553.4630978585842" y="0" name="bottom"/>
+  <anchor x="554.4630978585842" y="0" name="cedilla"/>
+  <anchor x="1058.4630978585842" y="0" name="ogonek"/>
+  <anchor x="272.4559139421433" y="1490" name="tonos"/>
+  <anchor x="841.2040654091581" y="1943" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="caroncomb" xOffset="136.3935634060715" yOffset="372"/>
+  </outline>
+</glyph>
