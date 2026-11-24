@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ytilde" format="2">
-  <advance width="1390"/>
+  <advance width="1394.12"/>
   <unicode hex="1EF8"/>
-  <anchor x="755" y="0" name="bottom"/>
-  <anchor x="759" y="339" name="cross"/>
-  <anchor x="929" y="0" name="ogonek"/>
-  <anchor x="36" y="1490" name="tonos"/>
-  <anchor x="756" y="1930" name="top"/>
+  <anchor x="755.28" y="0.0" name="bottom"/>
+  <anchor x="759.04" y="338.6" name="cross"/>
+  <anchor x="929.36" y="0.0" name="ogonek"/>
+  <anchor x="36.44" y="1490.0" name="tonos"/>
+  <anchor x="756.0" y="1930.24" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="tildecomb" xOffset="196" yOffset="372"/>
+    <component base="tildecomb" xOffset="198.6" yOffset="372.0"/>
   </outline>
 </glyph>

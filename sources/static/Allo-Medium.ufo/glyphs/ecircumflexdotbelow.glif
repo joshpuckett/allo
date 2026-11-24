@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecircumflexdotbelow" format="2">
-  <advance width="1174"/>
+  <advance width="1174.46"/>
   <unicode hex="1EC7"/>
-  <anchor x="595" y="0" name="bottom"/>
-  <anchor x="598" y="0" name="cedilla"/>
-  <anchor x="1080" y="268" name="ogonek"/>
-  <anchor x="592" y="1562" name="top"/>
+  <anchor x="595.4200000000001" y="0.0" name="bottom"/>
+  <anchor x="598.14" y="0.0" name="cedilla"/>
+  <anchor x="1080.38" y="268.46000000000004" name="ogonek"/>
+  <anchor x="592.4200000000001" y="1562.3200000000002" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb" xOffset="166"/>
-    <component base="dotbelow" xOffset="342"/>
+    <component base="circumflexcomb" xOffset="165.57999999999998"/>
+    <component base="dotbelow" xOffset="342.4"/>
   </outline>
 </glyph>

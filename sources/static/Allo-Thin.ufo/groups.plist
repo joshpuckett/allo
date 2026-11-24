@@ -44,6 +44,8 @@
       <string>Ccircumflex</string>
       <string>Cdotaccent</string>
       <string>Ccaron</string>
+      <string>coloncurrency</string>
+      <string>cedi</string>
     </array>
     <key>public.kern1.D</key>
     <array>
@@ -72,6 +74,7 @@
       <string>at.case</string>
       <string>copyright</string>
       <string>circlewhite</string>
+      <string>Dcroat</string>
       <string>Eth</string>
     </array>
     <key>public.kern1.E</key>
@@ -109,6 +112,7 @@
       <string>Gbreve</string>
       <string>Gdotaccent</string>
       <string>Gcommaaccent</string>
+      <string>guarani</string>
     </array>
     <key>public.kern1.H</key>
     <array>
@@ -187,6 +191,7 @@
     <array>
       <string>K</string>
       <string>Kcommaaccent</string>
+      <string>kip</string>
     </array>
     <key>public.kern1.L</key>
     <array>
@@ -254,6 +259,9 @@
     <array>
       <string>W</string>
       <string>Wcircumflex</string>
+      <string>Wgrave</string>
+      <string>Wacute</string>
+      <string>Wdieresis</string>
     </array>
     <key>public.kern1.X</key>
     <array>
@@ -829,7 +837,10 @@
     <key>public.kern1.w</key>
     <array>
       <string>w</string>
+      <string>wdieresis</string>
       <string>wcircumflex</string>
+      <string>wgrave</string>
+      <string>wacute</string>
     </array>
     <key>public.kern1.x</key>
     <array>
@@ -1015,6 +1026,9 @@
       <string>Ohorndotbelow</string>
       <string>OE</string>
       <string>Q</string>
+      <string>guarani</string>
+      <string>coloncurrency</string>
+      <string>cedi</string>
       <string>at</string>
       <string>at.case</string>
       <string>copyright</string>
@@ -1022,6 +1036,7 @@
     </array>
     <key>public.kern2.Dcroat</key>
     <array>
+      <string>Dcroat</string>
       <string>Eth</string>
     </array>
     <key>public.kern2.Idieresis</key>
@@ -1087,6 +1102,9 @@
     <array>
       <string>W</string>
       <string>Wcircumflex</string>
+      <string>Wgrave</string>
+      <string>Wacute</string>
+      <string>Wdieresis</string>
     </array>
     <key>public.kern2.X</key>
     <array>
@@ -1178,7 +1196,6 @@
       <string>comma</string>
       <string>period</string>
       <string>ellipsis</string>
-      <string>uni22EF</string>
     </array>
     <key>public.kern2.dagger</key>
     <array>
@@ -1632,7 +1649,10 @@
     <key>public.kern2.w</key>
     <array>
       <string>w</string>
+      <string>wdieresis</string>
       <string>wcircumflex</string>
+      <string>wgrave</string>
+      <string>wacute</string>
     </array>
     <key>public.kern2.x</key>
     <array>

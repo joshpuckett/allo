@@ -189,6 +189,9 @@
       <string>V</string>
       <string>W</string>
       <string>Wcircumflex</string>
+      <string>Wgrave</string>
+      <string>Wacute</string>
+      <string>Wdieresis</string>
       <string>X</string>
       <string>Y</string>
       <string>Yacute</string>
@@ -393,7 +396,10 @@
       <string>uhorndotbelow</string>
       <string>v</string>
       <string>w</string>
+      <string>wdieresis</string>
       <string>wcircumflex</string>
+      <string>wgrave</string>
+      <string>wacute</string>
       <string>x</string>
       <string>y</string>
       <string>ydieresis</string>
@@ -418,11 +424,23 @@
       <string>uni20BD</string>
       <string>euro</string>
       <string>uni20B9</string>
+      <string>tenge</string>
       <string>peso</string>
+      <string>kip</string>
       <string>won</string>
+      <string>uni060B</string>
+      <string>uni17DB</string>
+      <string>uni09F3</string>
+      <string>uni058F</string>
       <string>hryvnia</string>
       <string>naira</string>
+      <string>guarani</string>
+      <string>coloncurrency</string>
+      <string>cedi</string>
+      <string>tugrik</string>
       <string>afii57636</string>
+      <string>manat</string>
+      <string>lari</string>
       <string>baht</string>
       <string>bitcoin</string>
       <string>zero</string>
@@ -712,6 +730,7 @@
       <string>arrowheaddownmod</string>
       <string>arrowheadupmod</string>
       <string>spaceopenbox</string>
+      <string>somsign</string>
       <string>dieresiscomb</string>
       <string>dotaccentcomb</string>
       <string>circumflexcomb</string>
@@ -1099,7 +1118,13 @@
       <string>base</string>
       <key>W</key>
       <string>base</string>
+      <key>Wacute</key>
+      <string>base</string>
       <key>Wcircumflex</key>
+      <string>base</string>
+      <key>Wdieresis</key>
+      <string>base</string>
+      <key>Wgrave</key>
       <string>base</string>
       <key>X</key>
       <string>base</string>
@@ -1561,6 +1586,8 @@
       <string>base</string>
       <key>tildecomb</key>
       <string>mark</string>
+      <key>tugrik</key>
+      <string>base</string>
       <key>two</key>
       <string>base</string>
       <key>two.dnom</key>
@@ -1623,7 +1650,13 @@
       <string>base</string>
       <key>w</key>
       <string>base</string>
+      <key>wacute</key>
+      <string>base</string>
       <key>wcircumflex</key>
+      <string>base</string>
+      <key>wdieresis</key>
+      <string>base</string>
+      <key>wgrave</key>
       <string>base</string>
       <key>x</key>
       <string>base</string>
@@ -1864,6 +1897,8 @@
       <string>uni238B</string>
       <key>caroncomb</key>
       <string>uni030C</string>
+      <key>cedi</key>
+      <string>uni20B5</string>
       <key>cedillacomb</key>
       <string>uni0327</string>
       <key>circleblack</key>
@@ -1872,6 +1907,8 @@
       <string>uni0302</string>
       <key>clockwiseOpenCircleArrow</key>
       <string>uni21BB</string>
+      <key>coloncurrency</key>
+      <string>colonmonetary</string>
       <key>commaaccent</key>
       <string>uni0326</string>
       <key>control</key>
@@ -1928,6 +1965,8 @@
       <string>uni2007</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
+      <key>guarani</key>
+      <string>uni20B2</string>
       <key>guillemetleft</key>
       <string>guillemotleft</string>
       <key>guillemetright</key>
@@ -1954,6 +1993,10 @@
       <string>uni0237</string>
       <key>kcommaaccent</key>
       <string>uni0137</string>
+      <key>kip</key>
+      <string>uni20AD</string>
+      <key>lari</key>
+      <string>uni20BE</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
       <key>lcommaaccent.ss02</key>
@@ -1980,6 +2023,8 @@
       <string>arrowdblboth.case</string>
       <key>macroncomb</key>
       <string>uni0304</string>
+      <key>manat</key>
+      <string>uni20BC</string>
       <key>micro</key>
       <string>uni00B5</string>
       <key>naira</key>
@@ -2074,8 +2119,12 @@
       <string>uni0163</string>
       <key>tcommaaccent</key>
       <string>uni021B</string>
+      <key>tenge</key>
+      <string>uni20B8</string>
       <key>thinspace</key>
       <string>uni2009</string>
+      <key>tugrik</key>
+      <string>uni20AE</string>
       <key>twothirds</key>
       <string>uni2154</string>
       <key>u.sups</key>
@@ -2118,13 +2167,6 @@
       <string>uni200B</string>
     </dict>
     <key>public.skipExportGlyphs</key>
-    <array>
-      <string>_part.bottom_lfthook2_uc</string>
-      <string>_part.bottom_lfthook_uc</string>
-      <string>_part.zerodot</string>
-      <string>_part.zeroslash</string>
-      <string>_zero_percent</string>
-      <string>_zero_percent1</string>
-    </array>
+    <array/>
   </dict>
 </plist>

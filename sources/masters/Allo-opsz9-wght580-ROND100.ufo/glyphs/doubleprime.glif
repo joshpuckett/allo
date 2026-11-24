@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="doubleprime" format="2">
-  <advance width="1057"/>
+  <advance width="1056.8400000000001"/>
   <unicode hex="2033"/>
   <outline>
     <component base="prime"/>
-    <component base="prime" xOffset="518.0"/>
+    <component base="prime" xOffset="517.64"/>
   </outline>
 </glyph>

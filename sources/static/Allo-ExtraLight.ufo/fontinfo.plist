@@ -15,7 +15,7 @@
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
-    <string>2026/11/18 07:06:27</string>
+    <string>2026/11/24 20:54:38</string>
     <key>openTypeHeadFlags</key>
     <array>
       <integer>0</integer>
@@ -118,12 +118,12 @@
     <integer>16</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-19</integer>
+      <real>-18.666666666666664</real>
       <integer>0</integer>
       <integer>1118</integer>
-      <integer>1137</integer>
+      <real>1136.6666666666667</real>
       <integer>1490</integer>
-      <integer>1509</integer>
+      <real>1508.6666666666667</real>
     </array>
     <key>postscriptDefaultCharacter</key>
     <string>space</string>
@@ -149,12 +149,12 @@
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>92</integer>
+      <real>92.33333333333334</real>
     </array>
     <key>postscriptUnderlinePosition</key>
-    <integer>-379</integer>
+    <real>-379.3333333333333</real>
     <key>postscriptUnderlineThickness</key>
-    <integer>77</integer>
+    <real>77.33333333333334</real>
     <key>postscriptWeightName</key>
     <string>Extra-light</string>
     <key>styleMapFamilyName</key>
@@ -164,11 +164,11 @@
     <key>styleName</key>
     <string>ExtraLight</string>
     <key>unitsPerEm</key>
-    <integer>2048</integer>
+    <real>2048.0</real>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>3</integer>
+    <integer>100</integer>
     <key>xHeight</key>
     <integer>1118</integer>
   </dict>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etilde" format="2">
-  <advance width="1285"/>
+  <advance width="1284.52"/>
   <unicode hex="1EBC"/>
-  <anchor x="667" y="0" name="bottom"/>
-  <anchor x="668" y="0" name="cedilla"/>
-  <anchor x="1159" y="0" name="ogonek"/>
-  <anchor x="157" y="1490" name="tonos"/>
-  <anchor x="641" y="1911" name="top"/>
+  <anchor x="666.88" y="0.0" name="bottom"/>
+  <anchor x="667.6" y="0.0" name="cedilla"/>
+  <anchor x="1158.72" y="0.0" name="ogonek"/>
+  <anchor x="157.12" y="1490.0" name="tonos"/>
+  <anchor x="640.56" y="1910.64" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="tildecomb" xOffset="138.0" yOffset="372.0"/>
+    <component base="tildecomb" xOffset="137.64" yOffset="372.0"/>
   </outline>
 </glyph>

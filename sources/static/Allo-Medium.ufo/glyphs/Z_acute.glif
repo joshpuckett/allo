@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zacute" format="2">
-  <advance width="1288"/>
+  <advance width="1287.76"/>
   <unicode hex="0179"/>
-  <anchor x="639" y="0" name="bottom"/>
-  <anchor x="1178" y="0" name="bottomr"/>
-  <anchor x="641" y="745" name="cross"/>
-  <anchor x="642" y="1934" name="top"/>
+  <anchor x="639.14" y="0.0" name="bottom"/>
+  <anchor x="1178.1799999999998" y="0.0" name="bottomr"/>
+  <anchor x="640.88" y="745.0" name="cross"/>
+  <anchor x="641.96" y="1934.3200000000002" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="acutecomb" xOffset="396" yOffset="372"/>
+    <component base="acutecomb" xOffset="395.7" yOffset="372.0"/>
   </outline>
 </glyph>

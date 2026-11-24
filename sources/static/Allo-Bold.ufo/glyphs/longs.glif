@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="longs" format="2">
-  <advance width="682"/>
+  <advance width="682.02"/>
   <unicode hex="017F"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="267" y="768" name="cross"/>
-  <anchor x="338" y="1552" name="top"/>
+  <anchor x="271.62" y="0.0" name="bottom"/>
+  <anchor x="266.62" y="768.0" name="cross"/>
+  <anchor x="337.82" y="1552.0" name="top"/>
   <outline>
-    <component base="_part.f_base" xOffset="-77"/>
+    <component base="_part.f_base" xOffset="-77.32"/>
   </outline>
 </glyph>

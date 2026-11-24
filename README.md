@@ -17,7 +17,7 @@ arrows that appear when you type them, a host of alternates and symbols, as well
 
 ## Download
 
-Get `Allo-1.0.3.zip` from the [latest release](https://github.com/joshpuckett/allo/releases/latest):
+Get `Allo-1.1.0.zip` from the [latest release](https://github.com/joshpuckett/allo/releases/latest):
 
 | Folder | Contents |
 |---|---|
@@ -97,9 +97,11 @@ the variable font at opsz 14, ROND 50.
 | `sups`, `subs`, `numr`, `dnom` | Superscript, subscript, numerator, denominator |
 | `case` | Punctuation and symbols raised for capitals |
 | `liga` | tt, ff, tf, ft with a shared crossbar |
-| `calt` | `->` → →; brackets, signs, ¿ and ¡ raised beside capitals and figures |
+| `clig` | Typed arrows: `->` → →, `=>` → ⇒, `<->` → ↔, with a space or nothing either side |
+| `calt` | Brackets, signs, ¿ and ¡ raised beside capitals and figures |
 
-Browsers turn ligatures off when letter-spacing is set. For code, use `font-variant-ligatures: no-contextual`.
+`clig` and `calt` are on by default. `font-feature-settings: "clig" 0` turns off only the typed arrows (for code, say),
+`"calt" 0` only the raised brackets and signs. Browsers turn ligatures off when letter-spacing is set.
 
 ## Build
 
@@ -112,7 +114,7 @@ python3 -m venv .venv
 ```
 
 Writes `fonts/` (variable TTF and WOFF2; 18 static OTFs and WOFF2s, autohinted with AFDKO), `fonts/SHA256SUMS` and
-`Allo-1.0.3.zip`. Dependencies are pinned and `release.json` fixes the timestamp, so builds are reproducible.
+`Allo-1.1.0.zip`. Dependencies are pinned and `release.json` fixes the timestamp, so builds are reproducible.
 
 ## Sources
 

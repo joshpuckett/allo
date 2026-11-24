@@ -5,14 +5,21 @@
   <anchor x="252" y="0" name="_ogonek"/>
   <outline>
     <contour>
-      <point x="236" y="-415" type="qcurve"/>
-      <point x="236" y="-415"/>
-      <point x="236" y="-420"/>
-      <point x="236" y="-420" type="qcurve"/>
-      <point x="242" y="-373" type="line"/>
-      <point x="242" y="-373"/>
-      <point x="242" y="-373"/>
-      <point x="242" y="-373"/>
+      <point x="241" y="-423" type="qcurve"/>
+      <point x="241" y="-423"/>
+      <point x="241" y="-423"/>
+      <point x="241" y="-423" type="qcurve"/>
+      <point x="241" y="-423"/>
+      <point x="240" y="-407"/>
+      <point x="238" y="-387"/>
+      <point x="236" y="-372"/>
+      <point x="236" y="-372" type="qcurve"/>
+      <point x="236" y="-372"/>
+      <point x="236" y="-372"/>
+      <point x="236" y="-372" type="qcurve"/>
+      <point x="231" y="-371"/>
+      <point x="220" y="-369"/>
+      <point x="215" y="-369" type="qcurve"/>
       <point x="129" y="-369"/>
       <point x="64" y="-302"/>
       <point x="64" y="-262" type="qcurve"/>
@@ -23,19 +30,23 @@
       <point x="253" y="0"/>
       <point x="253" y="0"/>
       <point x="253" y="0"/>
+      <point x="253" y="0" type="qcurve"/>
+      <point x="231" y="36" type="line"/>
+      <point x="231" y="36" type="line"/>
+      <point x="231" y="36" type="line"/>
       <point x="231" y="36"/>
       <point x="231" y="36"/>
       <point x="231" y="36" type="qcurve"/>
       <point x="179" y="-7"/>
       <point x="100" y="-87"/>
       <point x="46" y="-162"/>
-      <point x="18" y="-231"/>
+      <point x="18" y="-230"/>
       <point x="18" y="-262" type="qcurve"/>
       <point x="18" y="-323"/>
       <point x="112" y="-415"/>
       <point x="215" y="-415" type="qcurve"/>
-      <point x="219" y="-415"/>
-      <point x="231" y="-415"/>
+      <point x="221" y="-415"/>
+      <point x="235" y="-419"/>
     </contour>
   </outline>
 </glyph>

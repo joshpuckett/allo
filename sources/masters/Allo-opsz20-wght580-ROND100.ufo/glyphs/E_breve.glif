@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ebreve" format="2">
-  <advance width="1237"/>
+  <advance width="1236.6"/>
   <unicode hex="0114"/>
-  <anchor x="647" y="0" name="bottom"/>
-  <anchor x="650" y="0" name="cedilla"/>
-  <anchor x="1149" y="0" name="ogonek"/>
-  <anchor x="127" y="1490" name="tonos"/>
-  <anchor x="619" y="1936" name="top"/>
+  <anchor x="646.84" y="0.0" name="bottom"/>
+  <anchor x="650.4" y="0.0" name="cedilla"/>
+  <anchor x="1149.48" y="0.0" name="ogonek"/>
+  <anchor x="126.92" y="1490.0" name="tonos"/>
+  <anchor x="619.44" y="1935.92" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="brevecomb" xOffset="212" yOffset="393"/>
+    <component base="brevecomb" xOffset="212.12" yOffset="393.0"/>
   </outline>
 </glyph>

@@ -1,27 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphen" format="2">
-  <advance width="901"/>
+  <advance width="901.4"/>
   <unicode hex="002D"/>
   <unicode hex="2010"/>
   <unicode hex="00AD"/>
   <outline>
     <contour>
-      <point x="782.0" y="714.996210872367"/>
-      <point x="781.996210872367" y="715.0"/>
-      <point x="781.9855" y="715.0" type="curve"/>
-      <point x="120.0145" y="715.0" type="line"/>
-      <point x="120.00378912763297" y="715.0"/>
-      <point x="120.0" y="714.996210872367"/>
-      <point x="120.0" y="714.9855" type="curve"/>
-      <point x="120.0" y="502.0145" type="line"/>
-      <point x="120.0" y="502.00378912763296"/>
-      <point x="120.00378912763297" y="502.0"/>
-      <point x="120.0145" y="502.0" type="curve"/>
-      <point x="781.9855" y="502.0" type="line"/>
-      <point x="781.996210872367" y="502.0"/>
-      <point x="782.0" y="502.00378912763296"/>
-      <point x="782.0" y="502.0145" type="curve"/>
-      <point x="782.0" y="714.9855" type="line"/>
+      <point x="782.12" y="715.08"/>
+      <point x="782.12" y="715.08"/>
+      <point x="782.12" y="715.08" type="curve"/>
+      <point x="119.92" y="715.08" type="line"/>
+      <point x="119.92" y="715.08"/>
+      <point x="119.92" y="715.08"/>
+      <point x="119.92" y="715.08" type="curve"/>
+      <point x="119.92" y="715.08"/>
+      <point x="119.92" y="502.04"/>
+      <point x="119.92" y="502.04" type="curve"/>
+      <point x="119.92" y="502.04"/>
+      <point x="119.92" y="502.04"/>
+      <point x="119.92" y="502.04" type="curve"/>
+      <point x="782.12" y="502.04" type="line"/>
+      <point x="782.12" y="502.04"/>
+      <point x="782.12" y="502.04"/>
+      <point x="782.12" y="502.04" type="curve"/>
+      <point x="782.12" y="502.04"/>
+      <point x="782.12" y="715.08"/>
+      <point x="782.12" y="715.08" type="curve"/>
     </contour>
   </outline>
 </glyph>

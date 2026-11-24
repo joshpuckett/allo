@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aring" format="2">
-  <advance width="1365"/>
+  <advance width="1450.12"/>
   <unicode hex="00C5"/>
-  <anchor x="685" y="0" name="bottom"/>
-  <anchor x="1372" y="0" name="ogonek"/>
-  <anchor x="449" y="1490" name="tonos"/>
-  <anchor x="685" y="1490" name="top"/>
+  <anchor x="684.6" y="0.0" name="bottom"/>
+  <anchor x="1372.2" y="0.0" name="ogonek"/>
+  <anchor x="449.16" y="1490.0" name="tonos"/>
+  <anchor x="684.6" y="1490.0" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb.uc" xOffset="368"/>
+    <component base="ringcomb.uc" xOffset="411.36"/>
   </outline>
 </glyph>

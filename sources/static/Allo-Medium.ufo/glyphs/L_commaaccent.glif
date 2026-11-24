@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lcommaaccent" format="2">
-  <advance width="1143"/>
+  <advance width="1143.0"/>
   <unicode hex="013B"/>
-  <anchor x="608" y="0" name="bottom"/>
-  <anchor x="380" y="745" name="cross"/>
-  <anchor x="601" y="811" name="dot"/>
-  <anchor x="629" y="1490" name="raccent"/>
-  <anchor x="273" y="1490" name="top"/>
+  <anchor x="607.5799999999999" y="0.0" name="bottom"/>
+  <anchor x="379.98" y="745.0" name="cross"/>
+  <anchor x="601.28" y="810.5" name="dot"/>
+  <anchor x="628.5799999999999" y="1490.0" name="raccent"/>
+  <anchor x="273.41999999999996" y="1490.0" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="commaaccent" xOffset="328"/>
+    <component base="commaaccent" xOffset="328.48"/>
   </outline>
 </glyph>

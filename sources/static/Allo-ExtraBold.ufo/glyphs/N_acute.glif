@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute" format="2">
-  <advance width="1539"/>
+  <advance width="1539.32"/>
   <unicode hex="0143"/>
-  <anchor x="770" y="0" name="bottom"/>
-  <anchor x="107" y="0" name="lfthook"/>
-  <anchor x="1431" y="0" name="lfthook2"/>
-  <anchor x="768" y="1948" name="top"/>
+  <anchor x="770.16" y="0.0" name="bottom"/>
+  <anchor x="106.92" y="0.0" name="lfthook"/>
+  <anchor x="1431.1599999999999" y="0.0" name="lfthook2"/>
+  <anchor x="768.16" y="1948.24" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb" xOffset="489" yOffset="372"/>
+    <component base="acutecomb" xOffset="488.84000000000003" yOffset="372.0"/>
   </outline>
 </glyph>

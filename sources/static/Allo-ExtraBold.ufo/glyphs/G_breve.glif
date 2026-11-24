@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gbreve" format="2">
-  <advance width="1539"/>
+  <advance width="1538.92"/>
   <unicode hex="011E"/>
-  <anchor x="779" y="0" name="bottom"/>
-  <anchor x="1169" y="424" name="cross"/>
-  <anchor x="768" y="1948" name="top"/>
-  <anchor x="1444" y="1004" name="topr"/>
+  <anchor x="778.84" y="0.0" name="bottom"/>
+  <anchor x="1169.0" y="423.92" name="cross"/>
+  <anchor x="767.84" y="1948.24" name="top"/>
+  <anchor x="1443.88" y="1004.0" name="topr"/>
   <outline>
     <component base="G"/>
-    <component base="brevecomb" xOffset="322" yOffset="372"/>
+    <component base="brevecomb" xOffset="322.44" yOffset="372.0"/>
   </outline>
 </glyph>

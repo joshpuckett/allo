@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcircumflex" format="2">
-  <advance width="1535"/>
+  <advance width="1535.1800000000003"/>
   <unicode hex="011C"/>
-  <anchor x="777" y="0" name="bottom"/>
-  <anchor x="1158" y="415" name="cross"/>
-  <anchor x="766" y="1943" name="top"/>
-  <anchor x="1430" y="1010" name="topr"/>
+  <anchor x="776.8600000000001" y="0.0" name="bottom"/>
+  <anchor x="1158.0" y="414.68000000000006" name="cross"/>
+  <anchor x="765.8600000000001" y="1942.96" name="top"/>
+  <anchor x="1430.02" y="1009.5" name="topr"/>
   <outline>
     <component base="G"/>
-    <component base="circumflexcomb" xOffset="307" yOffset="372"/>
+    <component base="circumflexcomb" xOffset="307.34000000000003" yOffset="372.0"/>
   </outline>
 </glyph>

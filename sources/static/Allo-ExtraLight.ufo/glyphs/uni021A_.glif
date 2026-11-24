@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni021A" format="2">
-  <advance width="1244"/>
+  <advance width="1244.0"/>
   <unicode hex="021A"/>
-  <anchor x="622" y="0" name="bottom"/>
-  <anchor x="665" y="0" name="bottomr"/>
-  <anchor x="623" y="0" name="cedilla"/>
-  <anchor x="626" y="766" name="cross"/>
-  <anchor x="669" y="0" name="cyrtic"/>
-  <anchor x="644" y="0" name="right"/>
-  <anchor x="622" y="1490" name="top"/>
+  <anchor x="622.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="665.0" y="0.0" name="bottomr"/>
+  <anchor x="622.6666666666667" y="0.0" name="cedilla"/>
+  <anchor x="626.3333333333333" y="766.3333333333334" name="cross"/>
+  <anchor x="669.0" y="0.0" name="cyrtic"/>
+  <anchor x="644.3333333333334" y="0.0" name="right"/>
+  <anchor x="621.6666666666667" y="1490.0" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccent" xOffset="356"/>
+    <component base="commaaccent" xOffset="355.66666666666663"/>
   </outline>
 </glyph>

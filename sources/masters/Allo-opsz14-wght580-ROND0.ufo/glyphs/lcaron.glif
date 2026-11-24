@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lcaron" format="2">
-  <advance width="748"/>
+  <advance width="747.88"/>
   <unicode hex="013E"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="385" y="0" name="bottomr"/>
-  <anchor x="385" y="745" name="centerr"/>
-  <anchor x="256" y="768" name="cross"/>
-  <anchor x="518" y="1490" name="raccent"/>
-  <anchor x="257" y="1490" name="top"/>
+  <anchor x="255.8" y="0.0" name="bottom"/>
+  <anchor x="385.4" y="0.0" name="bottomr"/>
+  <anchor x="385.4" y="745.0" name="centerr"/>
+  <anchor x="255.8" y="768.0" name="cross"/>
+  <anchor x="517.68" y="1490.0" name="raccent"/>
+  <anchor x="256.8" y="1490.0" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="commaaccentright.cn" xOffset="355"/>
+    <component base="commaaccentright.cn" xOffset="355.24"/>
   </outline>
 </glyph>

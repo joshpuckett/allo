@@ -1,31 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e" format="2">
-  <advance width="1189"/>
+  <advance width="1189.0"/>
   <outline>
     <contour>
-      <point x="1064.8" y="198.2" type="qcurve"/>
-      <point x="1081.6" y="225"/>
-      <point x="1066.4" y="261"/>
-      <point x="901" y="314"/>
-      <point x="873.6" y="302.59999999999997"/>
-      <point x="856.8" y="282.6" type="qcurve"/>
-      <point x="829.6" y="250.8"/>
-      <point x="757.6" y="206"/>
-      <point x="670" y="181"/>
+      <point x="1048" y="184" type="qcurve"/>
+      <point x="1054" y="193"/>
+      <point x="1056" y="214"/>
+      <point x="1049" y="234"/>
+      <point x="1040" y="241" type="qcurve"/>
+      <point x="1037" y="244"/>
+      <point x="1011" y="266"/>
+      <point x="979" y="293"/>
+      <point x="953" y="316"/>
+      <point x="949" y="319" type="qcurve"/>
+      <point x="939" y="328"/>
+      <point x="914" y="331"/>
+      <point x="892" y="320"/>
+      <point x="885" y="309" type="qcurve"/>
+      <point x="860" y="270"/>
+      <point x="776" y="212"/>
+      <point x="674" y="181"/>
       <point x="621" y="181" type="qcurve"/>
       <point x="541" y="181"/>
       <point x="415" y="256"/>
       <point x="340" y="393"/>
       <point x="335" y="486" type="qcurve"/>
       <point x="335" y="486" type="line"/>
-      <point x="1056.6" y="486" type="line"/>
-      <point x="1087.8" y="486"/>
-      <point x="1112.6" y="511.2"/>
-      <point x="1113" y="542.4" type="qcurve"/>
-      <point x="1113" y="568.2" type="line"/>
-      <point x="1113.2" y="746.8"/>
-      <point x="973.2" y="998.8"/>
-      <point x="740.8" y="1132"/>
+      <point x="1057" y="486" type="line"/>
+      <point x="1088" y="486"/>
+      <point x="1113" y="511"/>
+      <point x="1113" y="542" type="qcurve"/>
+      <point x="1113" y="575" type="line"/>
+      <point x="1111" y="752"/>
+      <point x="971" y="1001"/>
+      <point x="740" y="1132"/>
       <point x="601" y="1132" type="qcurve"/>
       <point x="449" y="1132"/>
       <point x="213" y="981"/>
@@ -35,9 +43,9 @@
       <point x="216" y="124"/>
       <point x="459" y="-23"/>
       <point x="618" y="-23" type="qcurve"/>
-      <point x="717.8000000000001" y="-23"/>
-      <point x="890.2" y="32.6"/>
-      <point x="1022.8000000000001" y="131.6"/>
+      <point x="707" y="-23"/>
+      <point x="872" y="29"/>
+      <point x="1006" y="123"/>
     </contour>
     <contour>
       <point x="602" y="928" type="qcurve"/>

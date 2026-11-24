@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave" format="2">
-  <advance width="496"/>
+  <advance width="495.72"/>
   <unicode hex="0060"/>
-  <anchor x="360" y="1056" name="_top"/>
-  <anchor x="360" y="1496" name="top"/>
+  <anchor x="359.64" y="1056.0" name="_top"/>
+  <anchor x="359.64" y="1496.12" name="top"/>
   <outline>
     <component base="gravecomb"/>
   </outline>

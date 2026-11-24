@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hdotbelow" format="2">
-  <advance width="1493"/>
+  <advance width="1492.52"/>
   <unicode hex="1E24"/>
-  <anchor x="748" y="0" name="bottom"/>
-  <anchor x="271" y="1" name="cedilla"/>
-  <anchor x="1340" y="0" name="cyrtic"/>
-  <anchor x="1111" y="0" name="lfthook"/>
-  <anchor x="1340" y="0" name="right"/>
-  <anchor x="157" y="1490" name="tonos"/>
-  <anchor x="748" y="1490" name="top"/>
+  <anchor x="748.26" y="0.0" name="bottom"/>
+  <anchor x="271.41999999999996" y="0.8200000000000001" name="cedilla"/>
+  <anchor x="1340.46" y="0.0" name="cyrtic"/>
+  <anchor x="1111.3" y="0.0" name="lfthook"/>
+  <anchor x="1340.46" y="0.0" name="right"/>
+  <anchor x="157.06" y="1490.0" name="tonos"/>
+  <anchor x="748.26" y="1490.0" name="top"/>
   <outline>
     <component base="H"/>
-    <component base="dotbelow" xOffset="496"/>
+    <component base="dotbelow" xOffset="496.41999999999996"/>
   </outline>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circleblack" format="2">
-  <advance width="1779"/>
+  <advance width="1774.24"/>
   <unicode hex="25CF"/>
   <outline>
     <contour>
-      <point x="188.0" y="358.0"/>
-      <point x="502.0" y="44.0"/>
-      <point x="889.0" y="44.0" type="curve"/>
-      <point x="1276.0" y="44.0"/>
-      <point x="1590.0" y="358.0"/>
-      <point x="1590.0" y="745.0" type="curve"/>
-      <point x="1590.0" y="1132.0"/>
-      <point x="1276.0" y="1446.0"/>
-      <point x="889.0" y="1446.0" type="curve"/>
-      <point x="502.0" y="1446.0"/>
-      <point x="188.0" y="1132.0"/>
-      <point x="188.0" y="745.0" type="curve"/>
+      <point x="188.76" y="358.96"/>
+      <point x="501.08" y="46.0"/>
+      <point x="887.12" y="46.0" type="curve"/>
+      <point x="1273.16" y="46.0"/>
+      <point x="1586.12" y="358.96"/>
+      <point x="1586.12" y="745.0" type="curve"/>
+      <point x="1586.12" y="1131.04"/>
+      <point x="1273.16" y="1444.0"/>
+      <point x="887.12" y="1444.0" type="curve"/>
+      <point x="501.08" y="1444.0"/>
+      <point x="188.76" y="1131.04"/>
+      <point x="188.76" y="745.0" type="curve"/>
     </contour>
   </outline>
 </glyph>

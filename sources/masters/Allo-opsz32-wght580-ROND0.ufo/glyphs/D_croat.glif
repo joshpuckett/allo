@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcroat" format="2">
-  <advance width="1460"/>
+  <advance width="1459.92"/>
   <unicode hex="0110"/>
-  <anchor x="686" y="0" name="bottom"/>
-  <anchor x="423" y="745" name="cross"/>
-  <anchor x="654" y="1490" name="top"/>
-  <anchor x="197" y="1490" name="topl"/>
+  <anchor x="686.44" y="0.0" name="bottom"/>
+  <anchor x="423.16" y="745.0" name="cross"/>
+  <anchor x="654.16" y="1490.0" name="top"/>
+  <anchor x="197.32" y="1490.0" name="topl"/>
   <outline>
     <component base="Dbar1"/>
   </outline>

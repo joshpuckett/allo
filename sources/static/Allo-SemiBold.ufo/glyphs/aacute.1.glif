@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aacute.1" format="2">
-  <advance width="1269"/>
+  <advance width="1269.12"/>
   <unicode hex="E02D"/>
-  <anchor x="615" y="0" name="bottom"/>
-  <anchor x="1121" y="0" name="bottomr"/>
-  <anchor x="1121" y="0" name="ogonek"/>
-  <anchor x="620" y="1567" name="top"/>
-  <anchor x="1121" y="1118" name="topr"/>
+  <anchor x="614.76" y="0.0" name="bottom"/>
+  <anchor x="1121.28" y="0.0" name="bottomr"/>
+  <anchor x="1121.28" y="0.0" name="ogonek"/>
+  <anchor x="619.8" y="1566.64" name="top"/>
+  <anchor x="1121.28" y="1118.0" name="topr"/>
   <outline>
     <component base="a.1"/>
-    <component base="acutecomb" xOffset="363"/>
+    <component base="acutecomb" xOffset="363.28"/>
   </outline>
 </glyph>

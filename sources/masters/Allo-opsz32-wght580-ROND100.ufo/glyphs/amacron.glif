@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="amacron" format="2">
-  <advance width="1063"/>
+  <advance width="1062.88"/>
   <unicode hex="0101"/>
-  <anchor x="525" y="0" name="bottom"/>
-  <anchor x="973" y="0" name="ogonek"/>
-  <anchor x="522" y="1423" name="top"/>
+  <anchor x="525.4" y="0.0" name="bottom"/>
+  <anchor x="972.92" y="0.0" name="ogonek"/>
+  <anchor x="522.48" y="1423.2" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="macroncomb" xOffset="143"/>
+    <component base="macroncomb" xOffset="142.64"/>
   </outline>
 </glyph>

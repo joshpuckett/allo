@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_part.zerodot" format="2">
-  <advance width="1386"/>
-  <anchor x="707" y="745" name="_center"/>
+  <advance width="1386.12"/>
+  <anchor x="706.56" y="745.0" name="_center"/>
   <outline>
     <contour>
-      <point x="593.617919921875" y="746.0" type="curve" smooth="yes"/>
-      <point x="582.3726196289062" y="675.0"/>
-      <point x="631.186279296875" y="617.0"/>
-      <point x="703.186279296875" y="617.0" type="curve" smooth="yes"/>
-      <point x="773.186279296875" y="617.0"/>
-      <point x="840.3726196289062" y="675.0"/>
-      <point x="851.617919921875" y="746.0" type="curve" smooth="yes"/>
-      <point x="862.8631591796875" y="817.0"/>
-      <point x="814.0494995117188" y="875.0"/>
-      <point x="744.0494995117188" y="875.0" type="curve" smooth="yes"/>
-      <point x="672.0494995117188" y="875.0"/>
-      <point x="604.8631591796875" y="817.0"/>
+      <point x="702.6393520464028" y="617.8400268554688" type="curve" smooth="yes"/>
+      <point x="772.7193691362465" y="617.8400268554688"/>
+      <point x="839.1179030377348" y="675.1599731445312"/>
+      <point x="850.3378610438133" y="746.0" type="curve" smooth="yes"/>
+      <point x="861.5197986639179" y="816.5999755859375"/>
+      <point x="813.2784496543002" y="873.9199829101562"/>
+      <point x="743.1984325644564" y="873.9199829101562" type="curve" smooth="yes"/>
+      <point x="672.3584057089877" y="873.9199829101562"/>
+      <point x="606.1998523748554" y="816.5999755859375"/>
+      <point x="595.0179147547508" y="746.0" type="curve" smooth="yes"/>
+      <point x="583.7979567486723" y="675.1599731445312"/>
+      <point x="631.799325190934" y="617.8400268554688"/>
     </contour>
   </outline>
 </glyph>

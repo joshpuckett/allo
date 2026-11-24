@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.tf.dot" format="2">
-  <advance width="1311"/>
+  <advance width="1276"/>
   <outline>
     <component base="zero.tf"/>
-    <component base="_part.zerodot" xOffset="6"/>
+    <component base="_part.zerodot" xOffset="-11.400000000000041"/>
   </outline>
 </glyph>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcommaaccent" format="2">
-  <advance width="1347"/>
+  <advance width="1347.08"/>
   <unicode hex="0162"/>
-  <anchor x="673" y="0" name="bottom"/>
-  <anchor x="844" y="0" name="bottomr"/>
-  <anchor x="674" y="0" name="cedilla"/>
-  <anchor x="678" y="689" name="cross"/>
-  <anchor x="848" y="0" name="cyrtic"/>
-  <anchor x="799" y="0" name="right"/>
-  <anchor x="673" y="1490" name="top"/>
+  <anchor x="673.4" y="0.0" name="bottom"/>
+  <anchor x="843.96" y="0.0" name="bottomr"/>
+  <anchor x="674.4" y="0.0" name="cedilla"/>
+  <anchor x="678.16" y="689.28" name="cross"/>
+  <anchor x="847.96" y="0.0" name="cyrtic"/>
+  <anchor x="799.48" y="0.0" name="right"/>
+  <anchor x="673.4" y="1490.0" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="cedillacomb" xOffset="287"/>
+    <component base="cedillacomb" xOffset="286.6"/>
   </outline>
 </glyph>

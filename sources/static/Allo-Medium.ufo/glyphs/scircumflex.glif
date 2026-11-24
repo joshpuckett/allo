@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scircumflex" format="2">
-  <advance width="1076"/>
+  <advance width="1076.0"/>
   <unicode hex="015D"/>
-  <anchor x="548" y="0" name="bottom"/>
-  <anchor x="546" y="0" name="cedilla"/>
-  <anchor x="89" y="283" name="rthook"/>
-  <anchor x="548" y="1562" name="top"/>
+  <anchor x="547.5" y="0.0" name="bottom"/>
+  <anchor x="546.5" y="0.0" name="cedilla"/>
+  <anchor x="89.0" y="282.5" name="rthook"/>
+  <anchor x="547.5" y="1562.5" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="circumflexcomb" xOffset="121"/>
+    <component base="circumflexcomb" xOffset="121.0"/>
   </outline>
 </glyph>

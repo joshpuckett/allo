@@ -58,6 +58,41 @@
         <dimension name="Roundness" xvalue="50"/>
       </location>
     </source>
+    <source filename="masters/Allo-opsz14-wght100-ROND50.ufo" name="14 100 5" familyname="Allo Variable" stylename="opsz14 wght100 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght100-ROND50.ufo" name="14 100 8" familyname="Allo Variable" stylename="opsz14 wght100 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght100-ROND50.ufo" name="14 100 15" familyname="Allo Variable" stylename="opsz14 wght100 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght100-ROND50.ufo" name="14 100 25" familyname="Allo Variable" stylename="opsz14 wght100 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght100-ROND50.ufo" name="14 100 30" familyname="Allo Variable" stylename="opsz14 wght100 ROND50" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="30"/>
+      </location>
+    </source>
     <source filename="masters/Allo-opsz14-wght100-ROND100.ufo" name="14 100 100" familyname="Allo Variable" stylename="opsz14 wght100 ROND100">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -77,6 +112,41 @@
         <dimension name="Optical size" xvalue="14"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght400-ROND50.ufo" name="14 400 5" familyname="Allo Variable" stylename="Regular" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght400-ROND50.ufo" name="14 400 8" familyname="Allo Variable" stylename="Regular" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght400-ROND50.ufo" name="14 400 15" familyname="Allo Variable" stylename="Regular" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght400-ROND50.ufo" name="14 400 25" familyname="Allo Variable" stylename="Regular" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght400-ROND50.ufo" name="14 400 30" familyname="Allo Variable" stylename="Regular" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="30"/>
       </location>
     </source>
     <source filename="masters/Allo-opsz14-wght400-ROND100.ufo" name="14 400 100" familyname="Allo Variable" stylename="opsz14 wght400 ROND100">
@@ -114,6 +184,34 @@
         <dimension name="Roundness" xvalue="30"/>
       </location>
     </source>
+    <source filename="masters/Allo-opsz14-wght580-ROND50.ufo" name="14 580 5" familyname="Allo Variable" stylename="opsz14 wght580 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght580-ROND50.ufo" name="14 580 8" familyname="Allo Variable" stylename="opsz14 wght580 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght580-ROND50.ufo" name="14 580 15" familyname="Allo Variable" stylename="opsz14 wght580 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght580-ROND50.ufo" name="14 580 25" familyname="Allo Variable" stylename="opsz14 wght580 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
     <source filename="masters/Allo-opsz14-wght580-ROND100.ufo" name="14 580 100" familyname="Allo Variable" stylename="opsz14 wght580 ROND100">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -149,6 +247,34 @@
         <dimension name="Roundness" xvalue="30"/>
       </location>
     </source>
+    <source filename="masters/Allo-opsz14-wght900-ROND50.ufo" name="14 900 5" familyname="Allo Variable" stylename="opsz14 wght900 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght900-ROND50.ufo" name="14 900 8" familyname="Allo Variable" stylename="opsz14 wght900 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght900-ROND50.ufo" name="14 900 15" familyname="Allo Variable" stylename="opsz14 wght900 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz14-wght900-ROND50.ufo" name="14 900 25" familyname="Allo Variable" stylename="opsz14 wght900 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
     <source filename="masters/Allo-opsz14-wght900-ROND100.ufo" name="14 900 100" familyname="Allo Variable" stylename="opsz14 wght900 ROND100">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -168,6 +294,41 @@
         <dimension name="Optical size" xvalue="20"/>
         <dimension name="Weight" xvalue="100"/>
         <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght100-ROND50.ufo" name="20 100 5" familyname="Allo Variable" stylename="opsz20 wght100 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght100-ROND50.ufo" name="20 100 8" familyname="Allo Variable" stylename="opsz20 wght100 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght100-ROND50.ufo" name="20 100 15" familyname="Allo Variable" stylename="opsz20 wght100 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght100-ROND50.ufo" name="20 100 25" familyname="Allo Variable" stylename="opsz20 wght100 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght100-ROND50.ufo" name="20 100 30" familyname="Allo Variable" stylename="opsz20 wght100 ROND50" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="30"/>
       </location>
     </source>
     <source filename="masters/Allo-opsz20-wght100-ROND100.ufo" name="20 100 100" familyname="Allo Variable" stylename="opsz20 wght100 ROND100">
@@ -191,6 +352,41 @@
         <dimension name="Roundness" xvalue="50"/>
       </location>
     </source>
+    <source filename="masters/Allo-opsz20-wght400-ROND50.ufo" name="20 400 5" familyname="Allo Variable" stylename="opsz20 wght400 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght400-ROND50.ufo" name="20 400 8" familyname="Allo Variable" stylename="opsz20 wght400 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght400-ROND50.ufo" name="20 400 15" familyname="Allo Variable" stylename="opsz20 wght400 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght400-ROND50.ufo" name="20 400 25" familyname="Allo Variable" stylename="opsz20 wght400 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght400-ROND50.ufo" name="20 400 30" familyname="Allo Variable" stylename="opsz20 wght400 ROND50" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="30"/>
+      </location>
+    </source>
     <source filename="masters/Allo-opsz20-wght400-ROND100.ufo" name="20 400 100" familyname="Allo Variable" stylename="opsz20 wght400 ROND100">
       <location>
         <dimension name="Optical size" xvalue="20"/>
@@ -210,6 +406,41 @@
         <dimension name="Optical size" xvalue="20"/>
         <dimension name="Weight" xvalue="580"/>
         <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght580-ROND50.ufo" name="20 580 5" familyname="Allo Variable" stylename="opsz20 wght580 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght580-ROND50.ufo" name="20 580 8" familyname="Allo Variable" stylename="opsz20 wght580 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght580-ROND50.ufo" name="20 580 15" familyname="Allo Variable" stylename="opsz20 wght580 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght580-ROND50.ufo" name="20 580 25" familyname="Allo Variable" stylename="opsz20 wght580 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght580-ROND50.ufo" name="20 580 30" familyname="Allo Variable" stylename="opsz20 wght580 ROND50" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="30"/>
       </location>
     </source>
     <source filename="masters/Allo-opsz20-wght580-ROND100.ufo" name="20 580 100" familyname="Allo Variable" stylename="opsz20 wght580 ROND100">
@@ -233,6 +464,41 @@
         <dimension name="Roundness" xvalue="50"/>
       </location>
     </source>
+    <source filename="masters/Allo-opsz20-wght900-ROND50.ufo" name="20 900 5" familyname="Allo Variable" stylename="opsz20 wght900 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght900-ROND50.ufo" name="20 900 8" familyname="Allo Variable" stylename="opsz20 wght900 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght900-ROND50.ufo" name="20 900 15" familyname="Allo Variable" stylename="opsz20 wght900 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght900-ROND50.ufo" name="20 900 25" familyname="Allo Variable" stylename="opsz20 wght900 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz20-wght900-ROND50.ufo" name="20 900 30" familyname="Allo Variable" stylename="opsz20 wght900 ROND50" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="20"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="30"/>
+      </location>
+    </source>
     <source filename="masters/Allo-opsz20-wght900-ROND100.ufo" name="20 900 100" familyname="Allo Variable" stylename="opsz20 wght900 ROND100">
       <location>
         <dimension name="Optical size" xvalue="20"/>
@@ -254,6 +520,41 @@
         <dimension name="Roundness" xvalue="50"/>
       </location>
     </source>
+    <source filename="masters/Allo-opsz32-wght100-ROND50.ufo" name="32 100 5" familyname="Allo Variable" stylename="opsz32 wght100 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght100-ROND50.ufo" name="32 100 8" familyname="Allo Variable" stylename="opsz32 wght100 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght100-ROND50.ufo" name="32 100 15" familyname="Allo Variable" stylename="opsz32 wght100 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght100-ROND50.ufo" name="32 100 25" familyname="Allo Variable" stylename="opsz32 wght100 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght100-ROND50.ufo" name="32 100 30" familyname="Allo Variable" stylename="opsz32 wght100 ROND50" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="30"/>
+      </location>
+    </source>
     <source filename="masters/Allo-opsz32-wght100-ROND100.ufo" name="32 100 100" familyname="Allo Variable" stylename="opsz32 wght100 ROND100">
       <location>
         <dimension name="Optical size" xvalue="32"/>
@@ -273,6 +574,41 @@
         <dimension name="Optical size" xvalue="32"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght400-ROND50.ufo" name="32 400 5" familyname="Allo Variable" stylename="opsz32 wght400 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght400-ROND50.ufo" name="32 400 8" familyname="Allo Variable" stylename="opsz32 wght400 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght400-ROND50.ufo" name="32 400 15" familyname="Allo Variable" stylename="opsz32 wght400 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght400-ROND50.ufo" name="32 400 25" familyname="Allo Variable" stylename="opsz32 wght400 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght400-ROND50.ufo" name="32 400 30" familyname="Allo Variable" stylename="opsz32 wght400 ROND50" layer="ROND 30">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="30"/>
       </location>
     </source>
     <source filename="masters/Allo-opsz32-wght400-ROND100.ufo" name="32 400 100" familyname="Allo Variable" stylename="opsz32 wght400 ROND100">
@@ -310,6 +646,34 @@
         <dimension name="Roundness" xvalue="30"/>
       </location>
     </source>
+    <source filename="masters/Allo-opsz32-wght580-ROND50.ufo" name="32 580 5" familyname="Allo Variable" stylename="opsz32 wght580 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght580-ROND50.ufo" name="32 580 8" familyname="Allo Variable" stylename="opsz32 wght580 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght580-ROND50.ufo" name="32 580 15" familyname="Allo Variable" stylename="opsz32 wght580 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght580-ROND50.ufo" name="32 580 25" familyname="Allo Variable" stylename="opsz32 wght580 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="580"/>
+        <dimension name="Roundness" xvalue="25"/>
+      </location>
+    </source>
     <source filename="masters/Allo-opsz32-wght580-ROND100.ufo" name="32 580 100" familyname="Allo Variable" stylename="opsz32 wght580 ROND100">
       <location>
         <dimension name="Optical size" xvalue="32"/>
@@ -343,6 +707,34 @@
         <dimension name="Optical size" xvalue="32"/>
         <dimension name="Weight" xvalue="900"/>
         <dimension name="Roundness" xvalue="30"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght900-ROND50.ufo" name="32 900 5" familyname="Allo Variable" stylename="opsz32 wght900 ROND50" layer="ROND 5">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght900-ROND50.ufo" name="32 900 8" familyname="Allo Variable" stylename="opsz32 wght900 ROND50" layer="ROND 8">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="8"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght900-ROND50.ufo" name="32 900 15" familyname="Allo Variable" stylename="opsz32 wght900 ROND50" layer="ROND 15">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="masters/Allo-opsz32-wght900-ROND50.ufo" name="32 900 25" familyname="Allo Variable" stylename="opsz32 wght900 ROND50" layer="ROND 25">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="25"/>
       </location>
     </source>
     <source filename="masters/Allo-opsz32-wght900-ROND100.ufo" name="32 900 100" familyname="Allo Variable" stylename="opsz32 wght900 ROND100">

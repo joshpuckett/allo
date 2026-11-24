@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="2016"/>
+  <advance width="2016.3333333333335"/>
   <unicode hex="0153"/>
-  <anchor x="1441" y="0" name="bottom"/>
-  <anchor x="600" y="559" name="center"/>
-  <anchor x="1893" y="239" name="ogonek"/>
-  <anchor x="1441" y="1118" name="top"/>
-  <anchor x="607" y="1133" name="tophorn"/>
-  <anchor x="1443" y="0" name="cedilla"/>
+  <anchor x="1440.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="599.6666666666667" y="559.0" name="center"/>
+  <anchor x="1893.0000000000002" y="239.33333333333334" name="ogonek"/>
+  <anchor x="1440.6666666666667" y="1118.0" name="top"/>
+  <anchor x="606.6666666666667" y="1132.6666666666667" name="tophorn"/>
+  <anchor x="1443.3333333333335" y="0.0" name="cedilla"/>
   <outline>
     <component base="o"/>
-    <component base="e" xOffset="857"/>
+    <component base="e" xOffset="857.6666666666667"/>
   </outline>
 </glyph>

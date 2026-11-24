@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aacute" format="2">
-  <advance width="1388"/>
+  <advance width="1390.22"/>
   <unicode hex="00C1"/>
-  <anchor x="710" y="0" name="bottom"/>
-  <anchor x="1378" y="0" name="ogonek"/>
-  <anchor x="477" y="1490" name="tonos"/>
-  <anchor x="709" y="1934" name="top"/>
+  <anchor x="709.54" y="0.0" name="bottom"/>
+  <anchor x="1378.42" y="0.0" name="ogonek"/>
+  <anchor x="476.94" y="1490.0" name="tonos"/>
+  <anchor x="708.72" y="1934.3200000000002" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="acutecomb" xOffset="446" yOffset="372"/>
+    <component base="acutecomb" xOffset="447.58000000000004" yOffset="372.0"/>
   </outline>
 </glyph>

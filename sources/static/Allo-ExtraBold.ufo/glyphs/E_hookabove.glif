@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ehookabove" format="2">
-  <advance width="1243"/>
+  <advance width="1243.32"/>
   <unicode hex="1EBA"/>
-  <anchor x="633" y="0" name="bottom"/>
-  <anchor x="635" y="0" name="cedilla"/>
-  <anchor x="1153" y="0" name="ogonek"/>
-  <anchor x="107" y="1490" name="tonos"/>
-  <anchor x="633" y="1490" name="top"/>
+  <anchor x="633.0799999999999" y="0.0" name="bottom"/>
+  <anchor x="634.6" y="0.0" name="cedilla"/>
+  <anchor x="1152.52" y="0.0" name="ogonek"/>
+  <anchor x="106.92" y="1490.0" name="tonos"/>
+  <anchor x="633.0799999999999" y="1490.0" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="hookabovecomb" xOffset="328" yOffset="372"/>
+    <component base="hookabovecomb" xOffset="328.48" yOffset="372.0"/>
   </outline>
 </glyph>

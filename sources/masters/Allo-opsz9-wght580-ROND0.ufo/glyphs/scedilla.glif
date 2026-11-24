@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scedilla" format="2">
-  <advance width="1132"/>
+  <advance width="1131.92"/>
   <unicode hex="015F"/>
-  <anchor x="573" y="0" name="bottom"/>
-  <anchor x="574" y="0" name="cedilla"/>
-  <anchor x="96" y="294" name="rthook"/>
-  <anchor x="572" y="1118" name="top"/>
+  <anchor x="573.28" y="0.0" name="bottom"/>
+  <anchor x="573.88" y="0.0" name="cedilla"/>
+  <anchor x="95.84" y="294.04" name="rthook"/>
+  <anchor x="571.84" y="1118.0" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="cedillacomb" xOffset="254"/>
+    <component base="cedillacomb" xOffset="253.72"/>
   </outline>
 </glyph>

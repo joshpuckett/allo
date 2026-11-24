@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ygrave" format="2">
-  <advance width="1107"/>
+  <advance width="1108.0"/>
   <unicode hex="1EF3"/>
-  <anchor x="902" y="0" name="bottom"/>
-  <anchor x="722" y="0" name="ogonek"/>
-  <anchor x="590" y="1567" name="top"/>
+  <anchor x="902.36" y="0.0" name="bottom"/>
+  <anchor x="721.92" y="0.0" name="ogonek"/>
+  <anchor x="590.44" y="1566.64" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="gravecomb" xOffset="116"/>
+    <component base="gravecomb" xOffset="117.03999999999999"/>
   </outline>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ihookabove.1" format="2">
-  <advance width="674"/>
+  <advance width="673.96"/>
   <unicode hex="E01C"/>
-  <anchor x="451" y="0" name="bottom"/>
-  <anchor x="451" y="772" name="cross"/>
-  <anchor x="825" y="0" name="ogonek"/>
-  <anchor x="844" y="0" name="right"/>
-  <anchor x="90" y="1490" name="tonos"/>
-  <anchor x="451" y="1490" name="top"/>
+  <anchor x="451.06" y="0.0" name="bottom"/>
+  <anchor x="450.7" y="772.4200000000001" name="cross"/>
+  <anchor x="825.06" y="0.0" name="ogonek"/>
+  <anchor x="843.6800000000001" y="0.0" name="right"/>
+  <anchor x="90.0" y="1490.0" name="tonos"/>
+  <anchor x="451.06" y="1490.0" name="top"/>
   <outline>
     <component base="I.1"/>
-    <component base="hookabovecomb" xOffset="187" yOffset="372"/>
+    <component base="hookabovecomb" xOffset="186.6" yOffset="372.0"/>
   </outline>
 </glyph>

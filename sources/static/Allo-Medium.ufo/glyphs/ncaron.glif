@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ncaron" format="2">
-  <advance width="1209"/>
+  <advance width="1209.42"/>
   <unicode hex="0148"/>
-  <anchor x="604" y="0" name="bottom"/>
-  <anchor x="1072" y="0" name="bottomr"/>
-  <anchor x="138" y="0" name="lfthook"/>
-  <anchor x="601" y="1562" name="top"/>
-  <anchor x="363" y="1118" name="topr"/>
+  <anchor x="604.44" y="0.0" name="bottom"/>
+  <anchor x="1072.1399999999999" y="0.0" name="bottomr"/>
+  <anchor x="138.1" y="0.0" name="lfthook"/>
+  <anchor x="601.44" y="1562.3200000000002" name="top"/>
+  <anchor x="362.52" y="1118.0" name="topr"/>
   <outline>
     <component base="n"/>
-    <component base="caroncomb" xOffset="175"/>
+    <component base="caroncomb" xOffset="174.6"/>
   </outline>
 </glyph>

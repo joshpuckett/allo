@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.tf" format="2">
-  <advance width="1368"/>
+  <advance width="1323"/>
   <unicode hex="E071"/>
-  <anchor x="665" y="1490" name="top"/>
+  <anchor x="661.74" y="1490" name="top"/>
   <outline>
-    <component base="zero" xOffset="7"/>
+    <component base="zero" xOffset="-15.65999999999999"/>
   </outline>
 </glyph>

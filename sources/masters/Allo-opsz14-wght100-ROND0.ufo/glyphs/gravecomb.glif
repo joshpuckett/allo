@@ -5,22 +5,26 @@
   <anchor x="349" y="1557" name="top"/>
   <outline>
     <contour>
-      <point x="304.9990811138983" y="1301.001903406925"/>
-      <point x="305.0021136010953" y="1301.0"/>
-      <point x="305.0116" y="1301.0" type="curve"/>
-      <point x="349.9777503943267" y="1301.0" type="line"/>
-      <point x="349.99176340691554" y="1301.0"/>
-      <point x="349.99667410049017" y="1301.007535241077"/>
-      <point x="349.991015708577" y="1301.0203550352553" type="curve"/>
-      <point x="222.00468402820425" y="1590.9893877485997" type="line"/>
-      <point x="221.9884" y="1591.0"/>
-      <point x="221.9884" y="1591.0"/>
-      <point x="221.9884" y="1591.0" type="curve"/>
-      <point x="165.0231012421881" y="1591.0" type="line"/>
-      <point x="165.00880173819183" y="1591.0"/>
-      <point x="165.0038265474566" y="1590.9920735802684"/>
-      <point x="165.0100432434608" y="1590.9791961385454" type="curve"/>
-      <point x="304.9949569108364" y="1301.010446398982" type="line"/>
+      <point x="305" y="1301"/>
+      <point x="305" y="1301"/>
+      <point x="305" y="1301" type="curve"/>
+      <point x="305" y="1301"/>
+      <point x="350" y="1301"/>
+      <point x="350" y="1301" type="curve"/>
+      <point x="350" y="1301"/>
+      <point x="350" y="1301"/>
+      <point x="350" y="1301" type="curve"/>
+      <point x="222" y="1591" type="line"/>
+      <point x="222" y="1591"/>
+      <point x="222" y="1591"/>
+      <point x="222" y="1591" type="curve"/>
+      <point x="222" y="1591"/>
+      <point x="165" y="1591"/>
+      <point x="165" y="1591" type="curve"/>
+      <point x="165" y="1591"/>
+      <point x="165" y="1591"/>
+      <point x="165" y="1591" type="curve"/>
+      <point x="305" y="1301" type="line"/>
     </contour>
   </outline>
 </glyph>

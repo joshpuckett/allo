@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelow" format="2">
   <unicode hex="0323"/>
-  <anchor x="249" y="0" name="_bottom"/>
+  <anchor x="249.02" y="0.0" name="_bottom"/>
   <outline>
-    <component base="dotaccentcomb" yOffset="-1721"/>
+    <component base="dotaccentcomb" yOffset="-1720.56"/>
   </outline>
 </glyph>

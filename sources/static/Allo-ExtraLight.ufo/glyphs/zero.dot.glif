@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.dot" format="2">
-  <advance width="1209"/>
-  <anchor x="604" y="745" name="center"/>
-  <anchor x="604" y="1490" name="top"/>
+  <advance width="1209.0"/>
+  <anchor x="604.3333333333334" y="745.0" name="center"/>
+  <anchor x="604.3333333333334" y="1490.0" name="top"/>
   <outline>
     <component base="zero"/>
     <component base="_part.zerodot"/>

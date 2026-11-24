@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacute" format="2">
-  <advance width="983"/>
+  <advance width="982.56"/>
   <unicode hex="015B"/>
-  <anchor x="494" y="0" name="bottom"/>
-  <anchor x="497" y="0" name="cedilla"/>
-  <anchor x="41" y="326" name="rthook"/>
-  <anchor x="493" y="1496" name="top"/>
+  <anchor x="493.68" y="0.0" name="bottom"/>
+  <anchor x="497.08" y="0.0" name="cedilla"/>
+  <anchor x="40.6" y="326.44" name="rthook"/>
+  <anchor x="493.32" y="1496.12" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="332"/>
+    <component base="acutecomb" xOffset="332.24"/>
   </outline>
 </glyph>

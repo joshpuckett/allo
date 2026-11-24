@@ -1,26 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb" format="2">
   <unicode hex="0304"/>
-  <anchor x="447" y="1118" name="_top"/>
-  <anchor x="447" y="1475" name="top"/>
+  <anchor x="446.6666666666667" y="1118.0" name="_top"/>
+  <anchor x="446.6666666666667" y="1475.0" name="top"/>
   <outline>
     <contour>
-      <point x="706.0" y="1426.425" type="line" smooth="yes"/>
-      <point x="706.0" y="1462.3064224295538"/>
-      <point x="693.3064224295537" y="1475.0"/>
-      <point x="657.425" y="1475.0" type="curve" smooth="yes"/>
-      <point x="235.575" y="1475.0" type="line" smooth="yes"/>
-      <point x="199.69357757044628" y="1475.0"/>
-      <point x="187.0" y="1462.3064224295535"/>
-      <point x="187.0" y="1426.425" type="curve" smooth="yes"/>
-      <point x="187.0" y="1413.575" type="line" smooth="yes"/>
-      <point x="187.0" y="1377.6935775704465"/>
-      <point x="199.69357757044628" y="1365.0"/>
-      <point x="235.575" y="1365.0" type="curve" smooth="yes"/>
-      <point x="657.425" y="1365.0" type="line" smooth="yes"/>
-      <point x="693.3064224295537" y="1365.0"/>
-      <point x="706.0" y="1377.6935775704462"/>
-      <point x="706.0" y="1413.575" type="curve" smooth="yes"/>
+      <point x="706.0" y="1463.5975990278398"/>
+      <point x="694.5959237348968" y="1474.9982675304777"/>
+      <point x="667.5000000089525" y="1475.0" type="curve"/>
+      <point x="225.49999999103522" y="1475.0" type="line"/>
+      <point x="198.4034444685774" y="1474.993553029963"/>
+      <point x="187.0" y="1463.6027925594271"/>
+      <point x="187.0" y="1436.500000009014" type="curve"/>
+      <point x="187.0" y="1421.6499354030107"/>
+      <point x="187.0" y="1418.3472189758356"/>
+      <point x="187.0" y="1403.499999990986" type="curve"/>
+      <point x="187.0" y="1376.402400972174"/>
+      <point x="198.40407626509412" y="1365.0017324695245"/>
+      <point x="225.49999999103272" y="1365.0" type="curve"/>
+      <point x="667.5000000089633" y="1365.0" type="line"/>
+      <point x="694.5965555314214" y="1365.0064469700358"/>
+      <point x="706.0" y="1376.3972074405729"/>
+      <point x="706.0" y="1403.499999990986" type="curve"/>
+      <point x="706.0" y="1418.3500645969941"/>
+      <point x="706.0" y="1421.6527810241525"/>
+      <point x="706.0" y="1436.500000009014" type="curve"/>
     </contour>
   </outline>
 </glyph>

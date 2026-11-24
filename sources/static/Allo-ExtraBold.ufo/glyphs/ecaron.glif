@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecaron" format="2">
-  <advance width="1208"/>
+  <advance width="1208.375"/>
   <unicode hex="011B"/>
-  <anchor x="606" y="0" name="bottom"/>
-  <anchor x="611" y="0" name="cedilla"/>
-  <anchor x="1133" y="296" name="ogonek"/>
-  <anchor x="603" y="1576" name="top"/>
+  <anchor x="606.5" y="0.0" name="bottom"/>
+  <anchor x="611.375" y="0.0" name="cedilla"/>
+  <anchor x="1133.25" y="295.75" name="ogonek"/>
+  <anchor x="603.5" y="1576.375" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="caroncomb" xOffset="126"/>
+    <component base="caroncomb" xOffset="125.5"/>
   </outline>
 </glyph>

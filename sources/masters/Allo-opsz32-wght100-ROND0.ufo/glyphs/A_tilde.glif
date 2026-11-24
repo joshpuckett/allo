@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Atilde" format="2">
-  <advance width="1165"/>
+  <advance width="1178"/>
   <unicode hex="00C3"/>
   <anchor x="582" y="0" name="bottom"/>
   <anchor x="1166" y="0" name="ogonek"/>
@@ -8,6 +8,6 @@
   <anchor x="582" y="1924" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb" xOffset="159" yOffset="434"/>
+    <component base="tildecomb" xOffset="166" yOffset="434"/>
   </outline>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldotbelow" format="2">
-  <advance width="1128"/>
+  <advance width="1128.0"/>
   <unicode hex="1E36"/>
-  <anchor x="614" y="0" name="bottom"/>
-  <anchor x="382" y="745" name="cross"/>
-  <anchor x="601" y="781" name="dot"/>
-  <anchor x="615" y="1490" name="raccent"/>
-  <anchor x="264" y="1490" name="top"/>
+  <anchor x="614.0" y="0.0" name="bottom"/>
+  <anchor x="382.00000000000006" y="745.0" name="cross"/>
+  <anchor x="600.6666666666667" y="780.6666666666667" name="dot"/>
+  <anchor x="615.3333333333334" y="1490.0" name="raccent"/>
+  <anchor x="264.0" y="1490.0" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="dotbelow" xOffset="393"/>
+    <component base="dotbelow" xOffset="393.33333333333337"/>
   </outline>
 </glyph>

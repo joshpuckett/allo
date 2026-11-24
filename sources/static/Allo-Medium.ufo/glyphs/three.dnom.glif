@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three.dnom" format="2">
-  <advance width="859"/>
+  <advance width="849.12"/>
   <unicode hex="E0B7"/>
-  <anchor x="390" y="818" name="top"/>
+  <anchor x="389.46000000000004" y="817.4" name="top"/>
   <outline>
-    <component base="three.sups" xOffset="-78" yOffset="-900"/>
+    <component base="three.sups" xOffset="-78.0" yOffset="-900.0"/>
   </outline>
 </glyph>

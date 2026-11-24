@@ -286,12 +286,14 @@ ZIP_README = '''
     case   Capital forms        punctuation and signs sit with
                                 capitals: (HELLO) [A–Z] ¿QUÉ?
     liga   Ligatures            tt ff tf ft share one crossbar
-    calt   Contextual           automatic, on by default:
-             typed arrows       a -> b   a <- b   a --> b
-             lifting            (A) [1] −$4.50 +2% ¡HOLA! @ACME
+    clig   Typed arrows         on by default:
+                                a -> b   a <- b   a --> b   a => b
+    calt   Contextual           on by default, lifting:
+                                (A) [1] −$4.50 +2% ¡HOLA! @ACME
     kern   Kerning
 
     Arrows need a space or nothing either side, so p->next stays code.
+    "clig" 0 turns off only the arrows, "calt" 0 only the lifting.
     Letter-spacing turns ligatures off in most browsers.
 
 
@@ -359,7 +361,7 @@ def main():
     drop_unreachable(variable)
     smooth_unhinted(variable)
     files = save(variable, ROOT / 'fonts/variable/AlloVariable.ttf')
-    files.append(friendly_web(variable))
+    files.append(friendly_web(TTFont(ROOT / 'fonts/variable/AlloVariable.ttf')))
     otfs = {}
     for stem, ufo in statics.items():
         otfs[stem] = ROOT / 'fonts/otf' / (stem + '.otf')

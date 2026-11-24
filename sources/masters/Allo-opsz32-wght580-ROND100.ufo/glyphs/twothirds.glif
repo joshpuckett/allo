@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twothirds" format="2">
-  <advance width="1840"/>
+  <advance width="1840.2"/>
   <unicode hex="2154"/>
-  <anchor x="354" y="1001" name="cross"/>
-  <anchor x="1393" y="823" name="top"/>
+  <anchor x="354.0" y="1000.6" name="cross"/>
+  <anchor x="1392.8" y="822.8" name="top"/>
   <outline>
     <component base="two.numr"/>
-    <component base="fraction" xOffset="762"/>
-    <component base="three.dnom" xOffset="1030"/>
+    <component base="fraction" xOffset="761.64"/>
+    <component base="three.dnom" xOffset="1030.48"/>
   </outline>
 </glyph>

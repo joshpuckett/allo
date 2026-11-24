@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydieresis" format="2">
-  <advance width="1257"/>
+  <advance width="1301"/>
   <unicode hex="0178"/>
   <anchor x="628" y="0" name="bottom"/>
   <anchor x="631" y="392" name="cross"/>
@@ -9,6 +9,6 @@
   <anchor x="631" y="1924" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresiscomb" xOffset="97" yOffset="434"/>
+    <component base="dieresiscomb" xOffset="119" yOffset="434"/>
   </outline>
 </glyph>

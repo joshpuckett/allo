@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash.ss02" format="2">
-  <advance width="615"/>
+  <advance width="615.0"/>
   <unicode hex="E051"/>
   <outline>
-    <component base="l.ss02" xOffset="33"/>
-    <component base="slashshort.lc" xOffset="20" yOffset="5"/>
+    <component base="l.ss02" xOffset="32.519999999999996"/>
+    <component base="slashshort.lc" xOffset="20.0" yOffset="4.42"/>
   </outline>
 </glyph>

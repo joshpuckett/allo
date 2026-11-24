@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="etilde" format="2">
-  <advance width="1208"/>
+  <advance width="1208.48"/>
   <unicode hex="1EBD"/>
-  <anchor x="606" y="0" name="bottom"/>
-  <anchor x="611" y="0" name="cedilla"/>
-  <anchor x="1133" y="296" name="ogonek"/>
-  <anchor x="605" y="1558" name="top"/>
+  <anchor x="606.44" y="0.0" name="bottom"/>
+  <anchor x="611.48" y="0.0" name="cedilla"/>
+  <anchor x="1133.1599999999999" y="295.72" name="ogonek"/>
+  <anchor x="604.96" y="1558.24" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="tildecomb" xOffset="103"/>
+    <component base="tildecomb" xOffset="103.24000000000001"/>
   </outline>
 </glyph>

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <anchor x="267" y="1118" name="_top"/>
-  <anchor x="267" y="1561" name="top"/>
+  <anchor x="266.96" y="1118.0" name="_top"/>
+  <anchor x="266.96" y="1560.96" name="top"/>
   <outline>
     <contour>
-      <point x="267.0" y="1276.0" type="curve" smooth="yes"/>
-      <point x="350.0" y="1276.0"/>
-      <point x="418.0" y="1340.0"/>
-      <point x="418.0" y="1419.0" type="curve" smooth="yes"/>
-      <point x="418.0" y="1497.0"/>
-      <point x="350.0" y="1561.0"/>
-      <point x="267.0" y="1561.0" type="curve" smooth="yes"/>
-      <point x="185.0" y="1561.0"/>
-      <point x="118.0" y="1497.0"/>
-      <point x="118.0" y="1419.0" type="curve" smooth="yes"/>
-      <point x="118.0" y="1340.0"/>
-      <point x="185.0" y="1276.0"/>
+      <point x="350.36" y="1276.16"/>
+      <point x="417.52" y="1339.6"/>
+      <point x="417.52" y="1418.56" type="curve" smooth="yes"/>
+      <point x="417.52" y="1497.52"/>
+      <point x="350.36" y="1560.96"/>
+      <point x="266.96" y="1560.96" type="curve" smooth="yes"/>
+      <point x="185.2" y="1560.96"/>
+      <point x="117.68" y="1497.52"/>
+      <point x="117.68" y="1418.56" type="curve" smooth="yes"/>
+      <point x="117.68" y="1339.6"/>
+      <point x="185.2" y="1276.16"/>
+      <point x="266.96" y="1276.16" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

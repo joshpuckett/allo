@@ -1,26 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb" format="2">
   <unicode hex="0304"/>
-  <anchor x="427" y="1097" name="_top"/>
-  <anchor x="427" y="1478" name="top"/>
+  <anchor x="426.76" y="1097.0" name="_top"/>
+  <anchor x="426.76" y="1478.24" name="top"/>
   <outline>
     <contour>
-      <point x="708.0" y="1468.996210872367"/>
-      <point x="707.996210872367" y="1469.0"/>
-      <point x="707.9855" y="1469.0" type="curve"/>
-      <point x="144.0145" y="1469.0" type="line"/>
-      <point x="144.00378912763296" y="1469.0"/>
-      <point x="144.0" y="1468.996210872367"/>
-      <point x="144.0" y="1468.9855" type="curve"/>
-      <point x="144.0" y="1295.0145" type="line"/>
-      <point x="144.0" y="1295.003789127633"/>
-      <point x="144.00378912763296" y="1295.0"/>
-      <point x="144.0145" y="1295.0" type="curve"/>
-      <point x="707.9855" y="1295.0" type="line"/>
-      <point x="707.996210872367" y="1295.0"/>
-      <point x="708.0" y="1295.003789127633"/>
-      <point x="708.0" y="1295.0145" type="curve"/>
-      <point x="708.0" y="1468.9855" type="line"/>
+      <point x="708.4" y="1469.16"/>
+      <point x="708.4" y="1469.16"/>
+      <point x="708.4" y="1469.16" type="curve"/>
+      <point x="144.48" y="1469.16" type="line"/>
+      <point x="144.48" y="1469.16"/>
+      <point x="144.48" y="1469.16"/>
+      <point x="144.48" y="1469.16" type="curve"/>
+      <point x="144.48" y="1469.16"/>
+      <point x="144.48" y="1295.4"/>
+      <point x="144.48" y="1295.4" type="curve"/>
+      <point x="144.48" y="1295.4"/>
+      <point x="144.48" y="1295.4"/>
+      <point x="144.48" y="1295.4" type="curve"/>
+      <point x="708.4" y="1295.4" type="line"/>
+      <point x="708.4" y="1295.4"/>
+      <point x="708.4" y="1295.4"/>
+      <point x="708.4" y="1295.4" type="curve"/>
+      <point x="708.4" y="1295.4"/>
+      <point x="708.4" y="1469.16"/>
+      <point x="708.4" y="1469.16" type="curve"/>
     </contour>
   </outline>
 </glyph>

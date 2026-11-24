@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scommaaccent" format="2">
-  <advance width="1293"/>
+  <advance width="1287.06"/>
   <unicode hex="0218"/>
-  <anchor x="649" y="0" name="bottom"/>
-  <anchor x="648" y="0" name="cedilla"/>
-  <anchor x="646" y="1490" name="top"/>
+  <anchor x="642.8199999999999" y="0.0" name="bottom"/>
+  <anchor x="642.1" y="0.0" name="cedilla"/>
+  <anchor x="640.1" y="1490.0" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="commaaccent" xOffset="376"/>
+    <component base="commaaccent" xOffset="369.72"/>
   </outline>
 </glyph>

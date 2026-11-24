@@ -30,10 +30,6 @@
     <string>a.sups.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
-    <key>ampersand</key>
-    <string>ampersand.glif</string>
-    <key>anticlockwiseOpenCircleArrow</key>
-    <string>anticlockwiseO_penC_ircleA_rrow.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
     <key>aogonek.1</key>
@@ -42,8 +38,6 @@
     <string>approxequal.glif</string>
     <key>asciitilde</key>
     <string>asciitilde.glif</string>
-    <key>at</key>
-    <string>at.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
     <key>braceright</key>
@@ -58,32 +52,20 @@
     <string>brevegravecomb.cn.glif</string>
     <key>brevetildecomb.cn</key>
     <string>brevetildecomb.cn.glif</string>
-    <key>brokenCircleNorthWestArrow</key>
-    <string>brokenC_ircleN_orthW_estA_rrow.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>caroncomb</key>
     <string>caroncomb.glif</string>
-    <key>cedillacomb</key>
-    <string>cedillacomb.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
-    <key>circumflexacutecomb.cn</key>
-    <string>circumflexacutecomb.cn.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
-    <key>circumflexgravecomb.cn</key>
-    <string>circumflexgravecomb.cn.glif</string>
     <key>circumflexhookcomb.cn</key>
     <string>circumflexhookcomb.cn.glif</string>
     <key>circumflextildecomb.cn</key>
     <string>circumflextildecomb.cn.glif</string>
-    <key>clockwiseOpenCircleArrow</key>
-    <string>clockwiseO_penC_ircleA_rrow.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
-    <key>commaaccent</key>
-    <string>commaaccent.glif</string>
     <key>commaaccentrotate.cn</key>
     <string>commaaccentrotate.cn.glif</string>
     <key>copyright</key>
@@ -92,12 +74,10 @@
     <string>dollar.glif</string>
     <key>e</key>
     <string>e.glif</string>
-    <key>e.sups</key>
-    <string>e.sups.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
-    <key>eogonek</key>
-    <string>eogonek.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
     <key>euro</key>
     <string>euro.glif</string>
     <key>f</key>
@@ -122,10 +102,6 @@
     <string>five.sups.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
-    <key>four.ss01</key>
-    <string>four.ss01.glif</string>
-    <key>four.sups</key>
-    <string>four.sups.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>germandbls</key>
@@ -138,10 +114,6 @@
     <string>iogonek.glif</string>
     <key>jdotless</key>
     <string>jdotless.glif</string>
-    <key>l.ss02</key>
-    <string>l.ss02.glif</string>
-    <key>leftHookArrow</key>
-    <string>leftH_ookA_rrow.glif</string>
     <key>micro</key>
     <string>micro.glif</string>
     <key>nine</key>
@@ -154,8 +126,6 @@
     <string>ogonek.U_.glif</string>
     <key>ogonek.a</key>
     <string>ogonek.a.glif</string>
-    <key>ogonek.e</key>
-    <string>ogonek.e.glif</string>
     <key>ogonekcomb</key>
     <string>ogonekcomb.glif</string>
     <key>ohorntilde</key>
@@ -184,22 +154,14 @@
     <string>six.sups.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
-    <key>t</key>
-    <string>t.glif</string>
     <key>t_f</key>
     <string>t_f.glif</string>
     <key>t_f_f</key>
     <string>t_f_f.glif</string>
     <key>t_f_t</key>
     <string>t_f_t.glif</string>
-    <key>t_t</key>
-    <string>t_t.glif</string>
     <key>t_t_f</key>
     <string>t_t_f.glif</string>
-    <key>t_t_t</key>
-    <string>t_t_t.glif</string>
-    <key>tbar</key>
-    <string>tbar.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>three.sups</key>
@@ -212,10 +174,8 @@
     <string>two.sups.glif</string>
     <key>uni012F.ccmp</key>
     <string>uni012F_.ccmp.glif</string>
-    <key>uni20B9</key>
-    <string>uni20B_9.glif</string>
-    <key>uni20BA</key>
-    <string>uni20B_A_.glif</string>
+    <key>uni09F3</key>
+    <string>uni09F_3.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
   </dict>

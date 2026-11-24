@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.dnom" format="2">
-  <advance width="922"/>
+  <advance width="891.08"/>
   <unicode hex="E0B4"/>
-  <anchor x="393" y="411" name="center"/>
-  <anchor x="393" y="823" name="top"/>
+  <anchor x="393.68" y="411.4" name="center"/>
+  <anchor x="393.68" y="822.8" name="top"/>
   <outline>
-    <component base="zero.sups" xOffset="-78" yOffset="-900"/>
+    <component base="zero.sups" xOffset="-78.0" yOffset="-900.0"/>
   </outline>
 </glyph>

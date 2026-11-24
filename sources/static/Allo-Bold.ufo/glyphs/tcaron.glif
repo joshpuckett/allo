@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-  <advance width="878"/>
+  <advance width="878.3000000000002"/>
   <unicode hex="0165"/>
-  <anchor x="617" y="1562" name="raccent"/>
+  <anchor x="617.32" y="1562.0" name="raccent"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccentright.cn" xOffset="434" yOffset="72"/>
+    <component base="commaaccentright.cn" xOffset="433.6600000000001" yOffset="72.0"/>
   </outline>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emacron" format="2">
-  <advance width="1189"/>
+  <advance width="1189.28"/>
   <unicode hex="0113"/>
-  <anchor x="599" y="0" name="bottom"/>
-  <anchor x="602" y="0" name="cedilla"/>
-  <anchor x="1097" y="277" name="ogonek"/>
-  <anchor x="596" y="1506" name="top"/>
+  <anchor x="598.84" y="0.0" name="bottom"/>
+  <anchor x="602.28" y="0.0" name="cedilla"/>
+  <anchor x="1096.76" y="276.92" name="ogonek"/>
+  <anchor x="595.84" y="1505.76" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="macroncomb" xOffset="146"/>
+    <component base="macroncomb" xOffset="145.76"/>
   </outline>
 </glyph>

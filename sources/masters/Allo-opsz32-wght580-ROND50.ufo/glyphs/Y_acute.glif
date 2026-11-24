@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yacute" format="2">
-  <advance width="1288"/>
+  <advance width="1290.28"/>
   <unicode hex="00DD"/>
-  <anchor x="662" y="0" name="bottom"/>
-  <anchor x="666" y="361" name="cross"/>
-  <anchor x="789" y="0" name="ogonek"/>
-  <anchor x="-10" y="1490" name="tonos"/>
-  <anchor x="663" y="1930" name="top"/>
+  <anchor x="662.2" y="0.0" name="bottom"/>
+  <anchor x="665.92" y="361.4" name="cross"/>
+  <anchor x="789.16" y="0.0" name="ogonek"/>
+  <anchor x="-10.2" y="1490.0" name="tonos"/>
+  <anchor x="663.04" y="1930.12" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="acutecomb" xOffset="485" yOffset="434"/>
+    <component base="acutecomb" xOffset="486.2" yOffset="434.0"/>
   </outline>
 </glyph>

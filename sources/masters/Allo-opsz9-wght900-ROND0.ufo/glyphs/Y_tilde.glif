@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ytilde" format="2">
-  <advance width="1585"/>
+  <advance width="1622"/>
   <unicode hex="1EF8"/>
   <anchor x="797" y="0" name="bottom"/>
   <anchor x="801" y="323" name="cross"/>
@@ -9,6 +9,6 @@
   <anchor x="797" y="1942" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="tildecomb" xOffset="296" yOffset="372"/>
+    <component base="tildecomb" xOffset="315" yOffset="372"/>
   </outline>
 </glyph>

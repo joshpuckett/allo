@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <anchor x="196" y="1118" name="_top"/>
-  <anchor x="196" y="1491" name="top"/>
+  <anchor x="196.0" y="1118.0" name="_top"/>
+  <anchor x="196.0" y="1491.0" name="top"/>
   <outline>
     <contour>
-      <point x="321.12371826171875" y="1349.0" type="curve" smooth="yes"/>
-      <point x="361.12371826171875" y="1349.0"/>
-      <point x="398.1920166015625" y="1381.0"/>
-      <point x="404.3689880371094" y="1420.0" type="curve" smooth="yes"/>
-      <point x="410.5459899902344" y="1459.0"/>
-      <point x="383.6142883300781" y="1491.0"/>
-      <point x="343.6142883300781" y="1491.0" type="curve" smooth="yes"/>
-      <point x="303.6142883300781" y="1491.0"/>
-      <point x="266.5459899902344" y="1459.0"/>
-      <point x="260.3689880371094" y="1420.0" type="curve" smooth="yes"/>
-      <point x="254.1920166015625" y="1381.0"/>
-      <point x="281.12371826171875" y="1349.0"/>
+      <point x="404.7023466252851" y="1420.0" type="curve" smooth="yes"/>
+      <point x="410.9321410560629" y="1459.3333740234375"/>
+      <point x="383.9476266295381" y="1491.0"/>
+      <point x="343.6142983824678" y="1491.0" type="curve" smooth="yes"/>
+      <point x="303.9476266295381" y="1491.0"/>
+      <point x="266.2654616737387" y="1459.3333740234375"/>
+      <point x="260.03566724296087" y="1420.0" type="curve" smooth="yes"/>
+      <point x="253.8058728121831" y="1380.6666259765625"/>
+      <point x="281.45703610345396" y="1349.0"/>
+      <point x="321.12370785638365" y="1349.0" type="curve" smooth="yes"/>
+      <point x="361.45703610345396" y="1349.0"/>
+      <point x="398.47255219450733" y="1380.6666259765625"/>
     </contour>
   </outline>
 </glyph>

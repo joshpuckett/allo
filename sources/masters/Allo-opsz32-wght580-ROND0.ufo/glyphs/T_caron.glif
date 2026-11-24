@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcaron" format="2">
-  <advance width="1221"/>
+  <advance width="1221.48"/>
   <unicode hex="0164"/>
-  <anchor x="611" y="0" name="bottom"/>
-  <anchor x="738" y="0" name="bottomr"/>
-  <anchor x="612" y="0" name="cedilla"/>
-  <anchor x="615" y="731" name="cross"/>
-  <anchor x="742" y="0" name="cyrtic"/>
-  <anchor x="692" y="0" name="right"/>
-  <anchor x="617" y="1930" name="top"/>
+  <anchor x="611.2" y="0.0" name="bottom"/>
+  <anchor x="738.32" y="0.0" name="bottomr"/>
+  <anchor x="612.2" y="0.0" name="cedilla"/>
+  <anchor x="615.2" y="731.28" name="cross"/>
+  <anchor x="742.32" y="0.0" name="cyrtic"/>
+  <anchor x="691.52" y="0.0" name="right"/>
+  <anchor x="616.56" y="1930.12" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb" xOffset="229" yOffset="434"/>
+    <component base="caroncomb" xOffset="229.4" yOffset="434.0"/>
   </outline>
 </glyph>

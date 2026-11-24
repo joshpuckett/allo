@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hcircumflex" format="2">
-  <advance width="1500"/>
+  <advance width="1500.04"/>
   <unicode hex="0124"/>
-  <anchor x="750" y="0" name="bottom"/>
-  <anchor x="275" y="1" name="cedilla"/>
-  <anchor x="1358" y="0" name="cyrtic"/>
-  <anchor x="1091" y="0" name="lfthook"/>
-  <anchor x="1358" y="0" name="right"/>
-  <anchor x="142" y="1490" name="tonos"/>
-  <anchor x="748" y="1939" name="top"/>
+  <anchor x="749.52" y="0.0" name="bottom"/>
+  <anchor x="274.84" y="0.64" name="cedilla"/>
+  <anchor x="1357.92" y="0.0" name="cyrtic"/>
+  <anchor x="1090.6" y="0.0" name="lfthook"/>
+  <anchor x="1357.92" y="0.0" name="right"/>
+  <anchor x="142.12" y="1490.0" name="tonos"/>
+  <anchor x="747.52" y="1938.64" name="top"/>
   <outline>
     <component base="H"/>
-    <component base="circumflexcomb" xOffset="305" yOffset="372"/>
+    <component base="circumflexcomb" xOffset="304.84" yOffset="372.0"/>
   </outline>
 </glyph>

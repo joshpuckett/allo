@@ -342,8 +342,14 @@
     <string>V_.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>Wacute</key>
+    <string>W_acute.glif</string>
     <key>Wcircumflex</key>
     <string>W_circumflex.glif</string>
+    <key>Wdieresis</key>
+    <string>W_dieresis.glif</string>
+    <key>Wgrave</key>
+    <string>W_grave.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>Y</key>
@@ -580,6 +586,8 @@
     <string>ccircumflex.glif</string>
     <key>cdotaccent</key>
     <string>cdotaccent.glif</string>
+    <key>cedi</key>
+    <string>cedi.glif</string>
     <key>cedilla</key>
     <string>cedilla.glif</string>
     <key>cedillacomb</key>
@@ -606,6 +614,8 @@
     <string>colon.glif</string>
     <key>colon.case</key>
     <string>colon.case.glif</string>
+    <key>coloncurrency</key>
+    <string>coloncurrency.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>commaaccent</key>
@@ -834,6 +844,8 @@
     <string>greaterequal.glif</string>
     <key>greaterequal.case</key>
     <string>greaterequal.case.glif</string>
+    <key>guarani</key>
+    <string>guarani.glif</string>
     <key>guillemetleft</key>
     <string>guillemetleft.glif</string>
     <key>guillemetright</key>
@@ -912,6 +924,8 @@
     <string>kcommaaccent.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
+    <key>kip</key>
+    <string>kip.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>l.ss02</key>
@@ -920,6 +934,8 @@
     <string>lacute.glif</string>
     <key>lacute.ss02</key>
     <string>lacute.ss02.glif</string>
+    <key>lari</key>
+    <string>lari.glif</string>
     <key>lcaron</key>
     <string>lcaron.glif</string>
     <key>lcaron.ss02</key>
@@ -974,6 +990,8 @@
     <string>macron.glif</string>
     <key>macroncomb</key>
     <string>macroncomb.glif</string>
+    <key>manat</key>
+    <string>manat.glif</string>
     <key>micro</key>
     <string>micro.glif</string>
     <key>minus</key>
@@ -1260,6 +1278,8 @@
     <string>slashshort.lc.glif</string>
     <key>slashshort.uc</key>
     <string>slashshort.uc.glif</string>
+    <key>somsign</key>
+    <string>somsign.glif</string>
     <key>southEastArrow</key>
     <string>southE_astA_rrow.glif</string>
     <key>southEastArrow.case</key>
@@ -1296,6 +1316,8 @@
     <string>tcedilla.glif</string>
     <key>tcommaaccent</key>
     <string>tcommaaccent.glif</string>
+    <key>tenge</key>
+    <string>tenge.glif</string>
     <key>thinspace</key>
     <string>thinspace.glif</string>
     <key>thorn</key>
@@ -1326,6 +1348,8 @@
     <string>triagrt.glif</string>
     <key>triagup</key>
     <string>triagup.glif</string>
+    <key>tugrik</key>
+    <string>tugrik.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>two.dnom</key>
@@ -1380,6 +1404,14 @@
     <string>uni012F_.ccmp.glif</string>
     <key>uni021A</key>
     <string>uni021A_.glif</string>
+    <key>uni058F</key>
+    <string>uni058F_.glif</string>
+    <key>uni060B</key>
+    <string>uni060B_.glif</string>
+    <key>uni09F3</key>
+    <string>uni09F_3.glif</string>
+    <key>uni17DB</key>
+    <string>uni17D_B_.glif</string>
     <key>uni20B9</key>
     <string>uni20B_9.glif</string>
     <key>uni20BA</key>
@@ -1422,10 +1454,16 @@
     <string>v.glif</string>
     <key>w</key>
     <string>w.glif</string>
+    <key>wacute</key>
+    <string>wacute.glif</string>
     <key>warningSign</key>
     <string>warningS_ign.glif</string>
     <key>wcircumflex</key>
     <string>wcircumflex.glif</string>
+    <key>wdieresis</key>
+    <string>wdieresis.glif</string>
+    <key>wgrave</key>
+    <string>wgrave.glif</string>
     <key>whiteSquare</key>
     <string>whiteS_quare.glif</string>
     <key>won</key>

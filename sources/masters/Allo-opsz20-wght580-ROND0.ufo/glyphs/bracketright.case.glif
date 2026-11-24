@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketright.case" format="2">
-  <advance width="677"/>
+  <advance width="676.6"/>
   <unicode hex="E084"/>
-  <anchor x="408" y="745" name="cross"/>
+  <anchor x="407.88" y="745.0" name="cross"/>
   <outline>
-    <component base="bracketright" yOffset="99"/>
+    <component base="bracketright" yOffset="99.0"/>
   </outline>
 </glyph>

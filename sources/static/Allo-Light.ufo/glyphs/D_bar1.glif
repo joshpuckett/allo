@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dbar1" format="2">
-  <advance width="1460"/>
-  <anchor x="627" y="0" name="bottom"/>
-  <anchor x="400" y="745" name="cross"/>
-  <anchor x="635" y="1490" name="top"/>
-  <anchor x="213" y="1490" name="topl"/>
+  <advance width="1459.6666666666667"/>
+  <anchor x="626.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="400.00000000000006" y="745.0" name="cross"/>
+  <anchor x="635.0" y="1490.0" name="top"/>
+  <anchor x="213.0" y="1490.0" name="topl"/>
   <outline>
-    <component base="D" xOffset="18"/>
-    <component base="crossbar_short.uc" xOffset="-20"/>
+    <component base="D" xOffset="18.000000000000004"/>
+    <component base="crossbar_short.uc" xOffset="-19.66666666666667"/>
   </outline>
 </glyph>

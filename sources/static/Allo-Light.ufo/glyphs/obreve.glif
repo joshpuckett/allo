@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="obreve" format="2">
-  <advance width="1200"/>
+  <advance width="1200.0"/>
   <unicode hex="014F"/>
-  <anchor x="600" y="0" name="bottom"/>
-  <anchor x="600" y="559" name="center"/>
-  <anchor x="1097" y="553" name="ogonek"/>
-  <anchor x="593" y="1549" name="top"/>
-  <anchor x="607" y="1133" name="tophorn"/>
+  <anchor x="599.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="599.6666666666667" y="559.0" name="center"/>
+  <anchor x="1096.6666666666667" y="553.3333333333334" name="ogonek"/>
+  <anchor x="592.6666666666667" y="1549.3333333333335" name="top"/>
+  <anchor x="606.6666666666667" y="1132.6666666666667" name="tophorn"/>
   <outline>
     <component base="o"/>
-    <component base="brevecomb" xOffset="228"/>
+    <component base="brevecomb" xOffset="228.00000000000003"/>
   </outline>
 </glyph>

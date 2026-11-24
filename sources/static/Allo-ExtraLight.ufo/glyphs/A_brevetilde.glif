@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abrevetilde" format="2">
-  <advance width="1305"/>
+  <advance width="1304.0"/>
   <unicode hex="1EB4"/>
-  <anchor x="657" y="0" name="bottom"/>
-  <anchor x="1262" y="0" name="ogonek"/>
-  <anchor x="528" y="1490" name="tonos"/>
-  <anchor x="657" y="2203" name="top"/>
+  <anchor x="657.0" y="0.0" name="bottom"/>
+  <anchor x="1261.6666666666665" y="0.0" name="ogonek"/>
+  <anchor x="528.0" y="1490.0" name="tonos"/>
+  <anchor x="657.0" y="2202.6666666666665" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="brevetildecomb.cn" xOffset="301" yOffset="372"/>
+    <component base="brevetildecomb.cn" xOffset="301.0" yOffset="372.0"/>
   </outline>
 </glyph>

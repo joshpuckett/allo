@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni060B" format="2">
+  <advance width="1160"/>
+  <unicode hex="060B"/>
+  <outline>
+    <contour>
+      <point x="87" y="57.4"/>
+      <point x="162.4" y="-18"/>
+      <point x="375.55" y="-18" type="curve"/>
+      <point x="611" y="-18" type="line"/>
+      <point x="879" y="-18"/>
+      <point x="1073" y="177"/>
+      <point x="1074" y="445" type="curve"/>
+      <point x="1074" y="1118" type="line"/>
+      <point x="1074" y="1344"/>
+      <point x="885" y="1508"/>
+      <point x="625" y="1508" type="curve"/>
+      <point x="365" y="1508"/>
+      <point x="176" y="1344"/>
+      <point x="176" y="1118" type="curve"/>
+      <point x="176" y="891"/>
+      <point x="365" y="727"/>
+      <point x="625" y="727" type="curve"/>
+      <point x="663" y="727"/>
+      <point x="699" y="730"/>
+      <point x="734" y="737" type="curve"/>
+      <point x="734" y="446" type="line"/>
+      <point x="734" y="329"/>
+      <point x="682" y="244"/>
+      <point x="610" y="244" type="curve"/>
+      <point x="427" y="244" type="line"/>
+      <point x="427" y="398.0000000395812" type="line"/>
+      <point x="426.16879845840987" y="491.15736654708974"/>
+      <point x="351.17036754738604" y="569.109469859659"/>
+      <point x="257.0000000395812" y="568.0000000395812" type="curve"/>
+      <point x="257.0000000395812" y="568.0000000395812"/>
+      <point x="257.0000000395812" y="568.0000000395812"/>
+      <point x="257.0000000395812" y="568.0000000395812" type="curve"/>
+      <point x="162.40913155799672" y="566.8855760799787"/>
+      <point x="87.46710299865424" y="492.95455757702973"/>
+      <point x="87" y="398.00000003957996" type="curve"/>
+      <point x="87" y="270.55" type="line"/>
+    </contour>
+    <contour>
+      <point x="516" y="1208"/>
+      <point x="562" y="1273"/>
+      <point x="625" y="1273" type="curve"/>
+      <point x="688" y="1273"/>
+      <point x="734" y="1208"/>
+      <point x="734" y="1118" type="curve"/>
+      <point x="734" y="1027"/>
+      <point x="688" y="962"/>
+      <point x="625" y="962" type="curve"/>
+      <point x="562" y="962"/>
+      <point x="516" y="1027"/>
+      <point x="516" y="1118" type="curve"/>
+    </contour>
+    <contour>
+      <point x="414" y="1656"/>
+      <point x="507" y="1564"/>
+      <point x="625" y="1564" type="curve" smooth="yes"/>
+      <point x="625" y="1564" type="line" smooth="yes"/>
+      <point x="743" y="1564"/>
+      <point x="835" y="1656"/>
+      <point x="835" y="1774" type="curve" smooth="yes"/>
+      <point x="835" y="1774" type="line" smooth="yes"/>
+      <point x="835" y="1893"/>
+      <point x="743" y="1984"/>
+      <point x="625" y="1984" type="curve" smooth="yes"/>
+      <point x="625" y="1984" type="line" smooth="yes"/>
+      <point x="507" y="1984"/>
+      <point x="414" y="1893"/>
+      <point x="414" y="1774" type="curve" smooth="yes"/>
+      <point x="414" y="1774" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="455.9814179129081" y="-316.110706154443"/>
+      <point x="552.3147963778491" y="-358.6333404681511"/>
+      <point x="625" y="-358" type="curve"/>
+      <point x="625" y="-358"/>
+      <point x="625" y="-358"/>
+      <point x="625" y="-358" type="curve"/>
+      <point x="697.5839559558076" y="-357.36754175052897"/>
+      <point x="794.5028820861195" y="-317.08664164511436"/>
+      <point x="795" y="-232.27000000473083" type="curve"/>
+      <point x="795" y="-229.72999999530293" type="line"/>
+      <point x="794.0185820870955" y="-145.88929384555286"/>
+      <point x="697.6852036221433" y="-103.36665953184841"/>
+      <point x="625" y="-104" type="curve"/>
+      <point x="625" y="-104"/>
+      <point x="625" y="-104"/>
+      <point x="625" y="-104" type="curve"/>
+      <point x="552.4160440441685" y="-104.63245824947178"/>
+      <point x="455.49711791387506" y="-144.91335835492055"/>
+      <point x="454.99999999999994" y="-229.72999999531982" type="curve"/>
+      <point x="455.00000000000006" y="-232.2700000046886" type="line"/>
+    </contour>
+  </outline>
+</glyph>

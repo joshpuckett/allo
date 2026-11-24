@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotbelow" format="2">
-  <advance width="439"/>
+  <advance width="439.0"/>
   <unicode hex="1ECB"/>
-  <anchor x="219" y="0" name="bottom"/>
-  <anchor x="219" y="586" name="cross"/>
-  <anchor x="264" y="0" name="ogonek"/>
-  <anchor x="219" y="1531" name="top"/>
+  <anchor x="219.33333333333334" y="0.0" name="bottom"/>
+  <anchor x="219.33333333333334" y="586.3333333333334" name="cross"/>
+  <anchor x="264.0" y="0.0" name="ogonek"/>
+  <anchor x="219.33333333333334" y="1531.0" name="top"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelow" xOffset="24"/>
+    <component base="dotbelow" xOffset="24.333333333333332"/>
   </outline>
 </glyph>

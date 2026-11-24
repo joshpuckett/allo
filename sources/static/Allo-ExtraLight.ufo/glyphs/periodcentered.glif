@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-  <advance width="544"/>
+  <advance width="544.0"/>
   <unicode hex="00B7"/>
-  <anchor x="66" y="701" name="_centerr"/>
+  <anchor x="65.66666666666667" y="700.6666666666666" name="_centerr"/>
   <outline>
-    <component base="period" yOffset="631"/>
+    <component base="period" yOffset="630.6666666666666"/>
   </outline>
 </glyph>

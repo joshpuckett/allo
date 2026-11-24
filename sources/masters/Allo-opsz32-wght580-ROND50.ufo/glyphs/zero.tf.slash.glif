@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.tf.slash" format="2">
-  <advance width="1264"/>
+  <advance width="1250"/>
   <unicode hex="E07B"/>
   <outline>
     <component base="zero.tf"/>
-    <component base="_part.zeroslash" xOffset="7"/>
+    <component base="_part.zeroslash" xOffset="-0.33999999999998565"/>
   </outline>
 </glyph>

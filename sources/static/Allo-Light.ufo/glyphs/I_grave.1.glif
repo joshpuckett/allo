@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Igrave.1" format="2">
-  <advance width="582"/>
+  <advance width="581.6666666666667"/>
   <unicode hex="E011"/>
-  <anchor x="417" y="0" name="bottom"/>
-  <anchor x="416" y="769" name="cross"/>
-  <anchor x="741" y="0" name="ogonek"/>
-  <anchor x="761" y="0" name="right"/>
-  <anchor x="116" y="1490" name="tonos"/>
-  <anchor x="416" y="1930" name="top"/>
+  <anchor x="416.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="416.33333333333337" y="768.6666666666667" name="cross"/>
+  <anchor x="741.0000000000001" y="0.0" name="ogonek"/>
+  <anchor x="760.6666666666667" y="0.0" name="right"/>
+  <anchor x="116.00000000000001" y="1490.0" name="tonos"/>
+  <anchor x="416.0" y="1929.6666666666667" name="top"/>
   <outline>
     <component base="I.1"/>
-    <component base="gravecomb" xOffset="32" yOffset="372"/>
+    <component base="gravecomb" xOffset="31.666666666666668" yOffset="372.0"/>
   </outline>
 </glyph>

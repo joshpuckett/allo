@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflexgrave" format="2">
-  <advance width="1254"/>
+  <advance width="1253.76"/>
   <unicode hex="1EC0"/>
-  <anchor x="657" y="0" name="bottom"/>
-  <anchor x="658" y="0" name="cedilla"/>
-  <anchor x="1137" y="0" name="ogonek"/>
-  <anchor x="155" y="1490" name="tonos"/>
-  <anchor x="624" y="2263" name="top"/>
+  <anchor x="657.44" y="0.0" name="bottom"/>
+  <anchor x="657.8" y="0.0" name="cedilla"/>
+  <anchor x="1136.8600000000001" y="0.0" name="ogonek"/>
+  <anchor x="155.06" y="1490.0" name="tonos"/>
+  <anchor x="623.9200000000001" y="2262.54" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexgravecomb.cn" xOffset="203" yOffset="372"/>
+    <component base="circumflexgravecomb.cn" xOffset="202.82" yOffset="372.0"/>
   </outline>
 </glyph>

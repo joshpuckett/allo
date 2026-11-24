@@ -1,25 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="figuredash" format="2">
-  <advance width="1327"/>
+  <advance width="1277"/>
   <unicode hex="2012"/>
   <outline>
     <contour>
-      <point x="110.0" y="582.003789127633"/>
-      <point x="110.00378912763297" y="582.0"/>
-      <point x="110.0145" y="582.0" type="curve"/>
-      <point x="1216.9855" y="582.0" type="line"/>
-      <point x="1216.996210872367" y="582.0"/>
-      <point x="1217.0" y="582.003789127633"/>
-      <point x="1217.0" y="582.0145" type="curve"/>
-      <point x="1217.0" y="747.9855" type="line"/>
-      <point x="1217.0" y="747.996210872367"/>
-      <point x="1216.996210872367" y="748.0"/>
-      <point x="1216.9855" y="748.0" type="curve"/>
-      <point x="110.0145" y="748.0" type="line"/>
-      <point x="110.00378912763297" y="748.0"/>
-      <point x="110.0" y="747.996210872367"/>
-      <point x="110.0" y="747.9855" type="curve"/>
-      <point x="110.0" y="582.0145" type="line"/>
+      <point x="85" y="582"/>
+      <point x="85" y="582"/>
+      <point x="85" y="582" type="curve"/>
+      <point x="1192" y="582" type="line"/>
+      <point x="1192" y="582"/>
+      <point x="1192" y="582"/>
+      <point x="1192" y="582" type="curve"/>
+      <point x="1192" y="582"/>
+      <point x="1192" y="748"/>
+      <point x="1192" y="748" type="curve"/>
+      <point x="1192" y="748"/>
+      <point x="1192" y="748"/>
+      <point x="1192" y="748" type="curve"/>
+      <point x="85" y="748" type="line"/>
+      <point x="85" y="748"/>
+      <point x="85" y="748"/>
+      <point x="85" y="748" type="curve"/>
+      <point x="85" y="748"/>
+      <point x="85" y="582"/>
+      <point x="85" y="582" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -8,15 +8,23 @@
   <anchor x="599" y="1118" name="top"/>
   <outline>
     <contour>
-      <point x="1041" y="164" type="qcurve"/>
-      <point x="1074" y="207"/>
-      <point x="1047" y="267"/>
-      <point x="913" y="310"/>
-      <point x="869" y="291"/>
-      <point x="836" y="261" type="qcurve"/>
-      <point x="810" y="236"/>
-      <point x="742" y="200"/>
-      <point x="664" y="181"/>
+      <point x="1030" y="159" type="qcurve"/>
+      <point x="1041" y="174"/>
+      <point x="1048" y="209"/>
+      <point x="1036" y="245"/>
+      <point x="1020" y="259" type="qcurve"/>
+      <point x="1013" y="264"/>
+      <point x="1002" y="274"/>
+      <point x="992" y="283"/>
+      <point x="980" y="293"/>
+      <point x="973" y="299" type="qcurve"/>
+      <point x="955" y="314"/>
+      <point x="914" y="316"/>
+      <point x="876" y="296"/>
+      <point x="862" y="279" type="qcurve"/>
+      <point x="832" y="246"/>
+      <point x="753" y="202"/>
+      <point x="665" y="181"/>
       <point x="621" y="181" type="qcurve"/>
       <point x="541" y="181"/>
       <point x="415" y="256"/>
@@ -40,9 +48,9 @@
       <point x="216" y="124"/>
       <point x="459" y="-23"/>
       <point x="618" y="-23" type="qcurve"/>
-      <point x="709" y="-23"/>
-      <point x="869" y="24"/>
-      <point x="997" y="108"/>
+      <point x="696" y="-23"/>
+      <point x="847" y="16"/>
+      <point x="980" y="97"/>
     </contour>
     <contour>
       <point x="602" y="928" type="qcurve"/>

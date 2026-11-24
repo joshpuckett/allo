@@ -1,8 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.tf" format="2">
-  <advance width="1359"/>
+  <advance width="1335"/>
   <unicode hex="E078"/>
   <outline>
-    <component base="seven" xOffset="113"/>
+    <contour>
+      <point x="266.8490808813875" y="69.49809940446502"/>
+      <point x="314.8905768244258" y="-10.5"/>
+      <point x="458.3346196189083" y="-10.5" type="curve"/>
+      <point x="492.6293709182619" y="-10.5"/>
+      <point x="499.92720246898966" y="-10.5"/>
+      <point x="522.4100000000001" y="-10.5" type="curve"/>
+      <point x="616.448395060142" y="-10.5"/>
+      <point x="646.8887766781036" y="7.965956405425217"/>
+      <point x="688.5374989304206" y="92.25124356163326" type="curve"/>
+      <point x="1211.71" y="1063.25" type="line"/>
+      <point x="1256.83" y="1153.63"/>
+      <point x="1263" y="1179.83"/>
+      <point x="1263" y="1280.84" type="curve"/>
+      <point x="1263" y="1302.71"/>
+      <point x="1263" y="1324.58"/>
+      <point x="1263" y="1346.45" type="curve"/>
+      <point x="1263" y="1452.49"/>
+      <point x="1225.49" y="1490"/>
+      <point x="1119.45" y="1490" type="curve"/>
+      <point x="163.0499999720561" y="1490" type="line"/>
+      <point x="78.55726872259436" y="1489.9743312414262"/>
+      <point x="43" y="1454.4675675263966"/>
+      <point x="43" y="1369.9500000281073" type="curve"/>
+      <point x="43" y="1323.6406527002794"/>
+      <point x="43" y="1313.350652694658"/>
+      <point x="43" y="1267.0499999718927" type="curve"/>
+      <point x="43" y="1182.5483006927136"/>
+      <point x="78.5591964854535" y="1147.0112658051162"/>
+      <point x="163.04999997206062" y="1147" type="curve"/>
+      <point x="847" y="1147" type="line"/>
+      <point x="847" y="1147" type="line"/>
+      <point x="330.14140183098516" y="197.6495465400345" type="line"/>
+    </contour>
   </outline>
 </glyph>

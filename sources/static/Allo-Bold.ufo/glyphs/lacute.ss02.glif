@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute.ss02" format="2">
-  <advance width="758"/>
+  <advance width="780.5800000000002"/>
   <unicode hex="E056"/>
   <outline>
     <component base="l.ss02"/>
-    <component base="acutecomb" yOffset="372"/>
+    <component base="acutecomb" xOffset="-0.07999999999999996" yOffset="372.0"/>
   </outline>
 </glyph>

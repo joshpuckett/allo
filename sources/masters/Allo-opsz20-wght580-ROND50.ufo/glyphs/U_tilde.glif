@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Utilde" format="2">
-  <advance width="1446"/>
+  <advance width="1445.56"/>
   <unicode hex="0168"/>
-  <anchor x="723" y="0" name="bottom"/>
-  <anchor x="1321" y="517" name="ogonek"/>
-  <anchor x="823" y="0" name="right"/>
-  <anchor x="1058" y="1490" name="rtophorn"/>
-  <anchor x="724" y="1913" name="top"/>
+  <anchor x="723.24" y="0.0" name="bottom"/>
+  <anchor x="1320.56" y="516.72" name="ogonek"/>
+  <anchor x="822.72" y="0.0" name="right"/>
+  <anchor x="1058.16" y="1490.0" name="rtophorn"/>
+  <anchor x="723.96" y="1913.4" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="tildecomb" xOffset="233" yOffset="393"/>
+    <component base="tildecomb" xOffset="233.36" yOffset="393.0"/>
   </outline>
 </glyph>

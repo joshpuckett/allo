@@ -15,7 +15,7 @@
     <key>italicAngle</key>
     <integer>-9</integer>
     <key>openTypeHeadCreated</key>
-    <string>2026/11/18 07:06:27</string>
+    <string>2026/11/24 20:54:38</string>
     <key>openTypeHeadFlags</key>
     <array>
       <integer>0</integer>
@@ -124,7 +124,7 @@
       <integer>1118</integer>
       <integer>1142</integer>
       <integer>1490</integer>
-      <integer>1520</integer>
+      <real>1520.125</real>
     </array>
     <key>postscriptDefaultCharacter</key>
     <string>space</string>
@@ -148,16 +148,16 @@
     <integer>-9</integer>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>286</integer>
+      <real>286.25</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>351</integer>
+      <real>351.5</real>
     </array>
     <key>postscriptUnderlinePosition</key>
-    <integer>-313</integer>
+    <real>-312.875</real>
     <key>postscriptUnderlineThickness</key>
-    <integer>210</integer>
+    <real>209.875</real>
     <key>postscriptWeightName</key>
     <string>Extra-bold</string>
     <key>styleMapFamilyName</key>
@@ -167,11 +167,11 @@
     <key>styleName</key>
     <string>ExtraBold Oblique</string>
     <key>unitsPerEm</key>
-    <integer>2048</integer>
+    <real>2048.0</real>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>3</integer>
+    <integer>100</integer>
     <key>xHeight</key>
     <integer>1118</integer>
   </dict>

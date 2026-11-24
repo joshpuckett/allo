@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udotbelow" format="2">
-  <advance width="1259"/>
+  <advance width="1259.12"/>
   <unicode hex="1EE5"/>
-  <anchor x="639" y="0" name="bottom"/>
-  <anchor x="1120" y="0" name="ogonek"/>
-  <anchor x="859" y="1118" name="rtophorn"/>
-  <anchor x="633" y="1118" name="top"/>
+  <anchor x="638.64" y="0.0" name="bottom"/>
+  <anchor x="1120.28" y="0.0" name="ogonek"/>
+  <anchor x="858.8" y="1118.0" name="rtophorn"/>
+  <anchor x="632.6" y="1118.0" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="dotbelow" xOffset="370.0"/>
+    <component base="dotbelow" xOffset="369.96"/>
   </outline>
 </glyph>

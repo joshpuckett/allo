@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevedotbelow.1" format="2">
-  <advance width="1183"/>
+  <advance width="1183.0"/>
   <unicode hex="E030"/>
-  <anchor x="591" y="0" name="bottom"/>
-  <anchor x="1008" y="0" name="bottomr"/>
-  <anchor x="1008" y="0" name="ogonek"/>
-  <anchor x="579" y="1541" name="top"/>
-  <anchor x="1008" y="1118" name="topr"/>
+  <anchor x="590.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="1008.3333333333333" y="0.0" name="bottomr"/>
+  <anchor x="1008.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="579.0" y="1540.6666666666665" name="top"/>
+  <anchor x="1008.3333333333333" y="1118.0" name="topr"/>
   <outline>
     <component base="a.1"/>
-    <component base="brevecomb" xOffset="227"/>
-    <component base="dotbelow" xOffset="395"/>
+    <component base="brevecomb" xOffset="226.66666666666669"/>
+    <component base="dotbelow" xOffset="395.3333333333333"/>
   </outline>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jcircumflex" format="2">
-  <advance width="495"/>
+  <advance width="494.62"/>
   <unicode hex="0135"/>
-  <anchor x="457" y="0" name="_right"/>
-  <anchor x="190" y="-446" name="bottom"/>
-  <anchor x="246" y="656" name="cross"/>
-  <anchor x="248" y="1562" name="top"/>
+  <anchor x="457.14" y="0.0" name="_right"/>
+  <anchor x="190.36" y="-446.38" name="bottom"/>
+  <anchor x="245.9" y="656.48" name="cross"/>
+  <anchor x="247.72" y="1562.3200000000002" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="circumflexcomb" xOffset="-179"/>
+    <component base="circumflexcomb" xOffset="-179.12"/>
   </outline>
 </glyph>

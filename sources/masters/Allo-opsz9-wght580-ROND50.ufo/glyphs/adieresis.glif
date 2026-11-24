@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adieresis" format="2">
-  <advance width="1189"/>
+  <advance width="1188.92"/>
   <unicode hex="00E4"/>
-  <anchor x="580" y="0" name="bottom"/>
-  <anchor x="1044" y="0" name="ogonek"/>
-  <anchor x="582" y="1555" name="top"/>
+  <anchor x="579.84" y="0.0" name="bottom"/>
+  <anchor x="1043.72" y="0.0" name="ogonek"/>
+  <anchor x="581.52" y="1554.92" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="dieresiscomb" xOffset="-31.0"/>
+    <component base="dieresiscomb" xOffset="-30.72"/>
   </outline>
 </glyph>
