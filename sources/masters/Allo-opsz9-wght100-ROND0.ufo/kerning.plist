@@ -569,8 +569,6 @@
       <integer>92</integer>
       <key>public.kern2.idieresis</key>
       <integer>119</integer>
-      <key>public.kern2.t</key>
-      <integer>50</integer>
     </dict>
     <key>public.kern1.Idieresis</key>
     <dict>
@@ -1530,7 +1528,7 @@
       <key>public.kern2.Y</key>
       <integer>-172</integer>
       <key>public.kern2.a</key>
-      <integer>20</integer>
+      <integer>-40</integer>
       <key>public.kern2.dagger</key>
       <integer>-68</integer>
       <key>public.kern2.emdash</key>
@@ -1989,8 +1987,6 @@
       <integer>-92</integer>
       <key>public.kern2.seven</key>
       <integer>-40</integer>
-      <key>public.kern2.t</key>
-      <integer>30</integer>
       <key>underscore</key>
       <integer>-92</integer>
     </dict>
@@ -2027,7 +2023,7 @@
       <key>public.kern2.Y</key>
       <integer>-172</integer>
       <key>public.kern2.a</key>
-      <integer>20</integer>
+      <integer>-40</integer>
       <key>public.kern2.dagger</key>
       <integer>-68</integer>
       <key>public.kern2.emdash</key>
@@ -2287,6 +2283,8 @@
       <integer>-68</integer>
       <key>public.kern2.A</key>
       <integer>-80</integer>
+      <key>public.kern2.B</key>
+      <integer>-20</integer>
       <key>public.kern2.J</key>
       <integer>-115</integer>
       <key>public.kern2.T</key>
@@ -2305,6 +2303,8 @@
       <integer>-80</integer>
       <key>public.kern2.idieresis</key>
       <integer>68</integer>
+      <key>public.kern2.m</key>
+      <integer>-20</integer>
       <key>public.kern2.o</key>
       <integer>-34</integer>
       <key>public.kern2.quotedblbase</key>

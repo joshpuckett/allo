@@ -709,8 +709,6 @@
       <real>134.125</real>
       <key>public.kern2.parenright</key>
       <real>51.5</real>
-      <key>public.kern2.t</key>
-      <integer>30</integer>
       <key>public.kern2.v</key>
       <real>25.125</real>
       <key>underscore</key>
@@ -1778,7 +1776,7 @@
       <key>public.kern2.Y</key>
       <real>-232.875</real>
       <key>public.kern2.a</key>
-      <real>13.875</real>
+      <integer>-40</integer>
       <key>public.kern2.dagger</key>
       <integer>-68</integer>
       <key>public.kern2.emdash</key>
@@ -2315,8 +2313,6 @@
       <integer>-92</integer>
       <key>public.kern2.seven</key>
       <integer>-40</integer>
-      <key>public.kern2.t</key>
-      <real>37.75</real>
       <key>underscore</key>
       <integer>-92</integer>
     </dict>
@@ -2353,7 +2349,7 @@
       <key>public.kern2.Y</key>
       <real>-253.5</real>
       <key>public.kern2.a</key>
-      <integer>20</integer>
+      <integer>-40</integer>
       <key>public.kern2.dagger</key>
       <integer>-68</integer>
       <key>public.kern2.emdash</key>
@@ -2693,7 +2689,7 @@
       <key>public.kern2.A</key>
       <integer>-80</integer>
       <key>public.kern2.B</key>
-      <integer>32</integer>
+      <integer>-20</integer>
       <key>public.kern2.J</key>
       <integer>-115</integer>
       <key>public.kern2.T</key>
@@ -2719,7 +2715,7 @@
       <key>public.kern2.j</key>
       <real>30.375</real>
       <key>public.kern2.m</key>
-      <real>7.5</real>
+      <integer>-20</integer>
       <key>public.kern2.o</key>
       <real>-55.875</real>
       <key>public.kern2.quotedblbase</key>

@@ -658,7 +658,7 @@
       <key>public.kern2.idieresis</key>
       <integer>132</integer>
       <key>public.kern2.t</key>
-      <integer>23</integer>
+      <integer>3</integer>
       <key>public.kern2.v</key>
       <integer>10</integer>
     </dict>
@@ -1716,7 +1716,7 @@
       <key>public.kern2.Y</key>
       <integer>-181</integer>
       <key>public.kern2.a</key>
-      <integer>17</integer>
+      <integer>-23</integer>
       <key>public.kern2.dagger</key>
       <integer>-68</integer>
       <key>public.kern2.emdash</key>
@@ -2246,7 +2246,7 @@
       <key>public.kern2.seven</key>
       <integer>-40</integer>
       <key>public.kern2.t</key>
-      <integer>33</integer>
+      <integer>13</integer>
       <key>underscore</key>
       <integer>-92</integer>
     </dict>
@@ -2283,7 +2283,7 @@
       <key>public.kern2.Y</key>
       <integer>-181</integer>
       <key>public.kern2.a</key>
-      <integer>17</integer>
+      <integer>-23</integer>
       <key>public.kern2.dagger</key>
       <integer>-68</integer>
       <key>public.kern2.emdash</key>
@@ -2586,7 +2586,7 @@
       <key>public.kern2.A</key>
       <integer>-80</integer>
       <key>public.kern2.B</key>
-      <integer>15</integer>
+      <integer>-20</integer>
       <key>public.kern2.J</key>
       <integer>-115</integer>
       <key>public.kern2.T</key>
@@ -2612,7 +2612,7 @@
       <key>public.kern2.j</key>
       <integer>21</integer>
       <key>public.kern2.m</key>
-      <integer>21</integer>
+      <integer>-14</integer>
       <key>public.kern2.o</key>
       <integer>-29</integer>
       <key>public.kern2.quotedblbase</key>

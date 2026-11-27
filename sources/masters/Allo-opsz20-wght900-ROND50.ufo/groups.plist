@@ -233,6 +233,7 @@
       <string>Scommaaccent</string>
       <string>Germandbls</string>
       <string>dollar</string>
+      <string>dollar.ss04</string>
     </array>
     <key>public.kern1.T</key>
     <array>
@@ -598,6 +599,7 @@
       <string>p</string>
       <string>eth</string>
       <string>cent</string>
+      <string>cent.ss04</string>
     </array>
     <key>public.kern1.o.sups</key>
     <array>
@@ -1061,6 +1063,7 @@
       <string>Scaron</string>
       <string>Scommaaccent</string>
       <string>dollar</string>
+      <string>dollar.ss04</string>
     </array>
     <key>public.kern2.T</key>
     <array>
@@ -1430,6 +1433,7 @@
       <string>q</string>
       <string>eth</string>
       <string>cent</string>
+      <string>cent.ss04</string>
     </array>
     <key>public.kern2.o.sups</key>
     <array>
